@@ -17872,7 +17872,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">(sydl.:) stånga och röra sig</l>
+         <l pos="V">(sydl) stånga och röra sig</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -19447,7 +19447,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">fisa tyst (sydl.:) falla (om stjärna)</l>
+         <l pos="V">fisa tyst (sydl) falla (om stjärna)</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -19562,7 +19562,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">bajsa (om djur) (sydl.:) krysta</l>
+         <l pos="V">bajsa (om djur) (sydl) krysta</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -20377,7 +20377,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">irritera (sydl.:) samla småved som ligger på marken</l>
+         <l pos="V">irritera (sydl) samla småved som ligger på marken</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -23907,7 +23907,17 @@
    </e>
    <e>
       <lg>
-         <l pos="V">barka:garva (skinn/garv)</l>
+         <l pos="V">barka</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="V">båårhkedidh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">garva</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -23932,26 +23942,6 @@
       <mg>
          <tg xml:lang="sma">
             <t pos="V">bååhrkedidh</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">barka:garva (skinn och läder)</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="V">bååhrkesjidh</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">undersöka med handen:fingra på något</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="V">daahterdidh</t>
          </tg>
       </mg>
    </e>
@@ -24892,7 +24882,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">(sydl.:)träffas</l>
+         <l pos="V">(sydl)träffas</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -24972,7 +24962,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">(sydl.:) gräla</l>
+         <l pos="V">(sydl) gräla</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -25132,7 +25122,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">(sydl.:) bita (om fisk)</l>
+         <l pos="V">(sydl) bita (om fisk)</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -25392,7 +25382,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">(sydl.:) säga något opassade</l>
+         <l pos="V">(sydl) säga något opassade</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -26022,7 +26012,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">genast bli vrickad/gå ur led</l>
+         <l pos="V">genast bli vrickad</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -26127,7 +26117,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">bli vrickad:gå ur led</l>
+         <l pos="V">gå ur led</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -26192,7 +26182,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">(sydl.:) uppehålla</l>
+         <l pos="V">(sydl) uppehålla</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -26572,7 +26562,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">sysselsätta:förse någon med något</l>
+         <l pos="V">förse någon med något</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -26597,7 +26587,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">släpa (t.ex. för att flytta något)</l>
+         <l pos="V">släpa</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -26807,7 +26797,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">hålla på och skaka:dra i håret flera gånger</l>
+         <l pos="V">hålla på och skaka</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -27477,7 +27467,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">(sydl.:) ligga full</l>
+         <l pos="V">(sydl) ligga full</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -29337,7 +29327,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">(sydl.:) ljuda i fjärran</l>
+         <l pos="V">(sydl) ljuda i fjärran</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -29402,7 +29392,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">(sydl.:) gnälla</l>
+         <l pos="V">(sydl) gnälla</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -29622,7 +29612,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">ra/virvla över (spår etc:)</l>
+         <l pos="V">ra/virvla över (spår etc)</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -34862,7 +34852,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">anmoda (sydl.:) trösta</l>
+         <l pos="V">anmoda (sydl) trösta</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -36467,7 +36457,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">slapp (sydl.:) vara lat</l>
+         <l pos="V">slapp (sydl) vara lat</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -37602,7 +37592,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">spela musikinstrumet (sydl.:) klyva ett föremål</l>
+         <l pos="V">spela musikinstrumet (sydl) klyva ett föremål</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
