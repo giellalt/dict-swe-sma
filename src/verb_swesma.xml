@@ -21,10 +21,11 @@
    </e>
    <e>
       <lg>
-         <l pos="V">bränna (brännvin)</l>
+         <l pos="V">bränna</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>brännvin</re>
             <t pos="V">bissedh</t>
          </tg>
       </mg>
@@ -216,20 +217,22 @@
    </e>
    <e>
       <lg>
-         <l pos="V">svida (om insektsbett)</l>
+         <l pos="V">svida</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>om insektsbett</re>
             <t pos="V">bueledh</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="V">lysa (om stjärna/norrsken)</l>
+         <l pos="V">lysa</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>om stjärna/norrsken</re>
             <t pos="V">bueledh</t>
          </tg>
       </mg>
@@ -486,10 +489,11 @@
    </e>
    <e>
       <lg>
-         <l pos="V">jaga bort (hund)</l>
+         <l pos="V">jaga bort</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>hund</re>
             <t pos="V">aeskedh</t>
          </tg>
       </mg>
@@ -1601,30 +1605,34 @@
    </e>
    <e>
       <lg>
-         <l pos="V">vricka (fot)</l>
+         <l pos="V">vricka</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>fot</re>
             <t pos="V">eaktjaldehtedh</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sma">
+            <re>fot</re>
             <t pos="V">eatjkaldehtedh</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="V">sträcka (sena)</l>
+         <l pos="V">sträcka</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>sena</re>
             <t pos="V">eaktjaldehtedh</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sma">
+            <re>sena</re>
             <t pos="V">eatjkaldehtedh</t>
          </tg>
       </mg>
@@ -2216,10 +2224,11 @@
    </e>
    <e>
       <lg>
-         <l pos="V">få til att vakna (väcka religiöst)</l>
+         <l pos="V">få til att vakna</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>väcka religiöst</re>
             <t pos="V">gåhtsajehtedh</t>
          </tg>
       </mg>
@@ -3056,10 +3065,11 @@
    </e>
    <e>
       <lg>
-         <l pos="V">skrapa av kötthinnan på (skinn) under beredning</l>
+         <l pos="V">skrapa av kötthinnan på under beredning</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>skinn</re>
             <t pos="V">nieskedh</t>
          </tg>
       </mg>
@@ -5361,10 +5371,11 @@
    </e>
    <e>
       <lg>
-         <l pos="V">kasta (flera gånger el. saker)</l>
+         <l pos="V">kasta</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>flera gånger el. saker</re>
             <t pos="V">hajkodh</t>
          </tg>
       </mg>
@@ -5546,20 +5557,22 @@
    </e>
    <e>
       <lg>
-         <l pos="V">flamma (om eld)</l>
+         <l pos="V">flamma</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>om eld</re>
             <t pos="V">baajskodh</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="V">svälla (om hud)</l>
+         <l pos="V">svälla</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>om hud</re>
             <t pos="V">baajskodh</t>
          </tg>
       </mg>
@@ -8661,20 +8674,22 @@
    </e>
    <e>
       <lg>
-         <l pos="V">klarne (om hode)</l>
+         <l pos="V">klarne</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>om hode</re>
             <t pos="V">skajkedh</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="V">ge med sig (om smärta)</l>
+         <l pos="V">ge med sig</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>om smärta</re>
             <t pos="V">sleapkedh</t>
          </tg>
       </mg>
@@ -9676,15 +9691,17 @@
    </e>
    <e>
       <lg>
-         <l pos="V">nappa (om fisk)</l>
+         <l pos="V">nappa</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>om fisk</re>
             <t pos="V">snjåaredh</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sma">
+            <re>om fisk</re>
             <t pos="V">dijpedh</t>
          </tg>
       </mg>
@@ -12981,10 +12998,11 @@
    </e>
    <e>
       <lg>
-         <l pos="V">surra (om mygg)</l>
+         <l pos="V">surra</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>om mygg</re>
             <t pos="V">gïjjedh</t>
          </tg>
       </mg>
@@ -13981,10 +13999,11 @@
    </e>
    <e>
       <lg>
-         <l pos="V">lära upp (flera)</l>
+         <l pos="V">lära upp</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>flera</re>
             <t pos="V">lierehtalledh</t>
          </tg>
       </mg>
@@ -14086,10 +14105,11 @@
    </e>
    <e>
       <lg>
-         <l pos="V">blanda sig samman (särskillt om två renhjordar)</l>
+         <l pos="V">blanda sig samman</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>särskillt om två renhjordar</re>
             <t pos="V">mastedh</t>
          </tg>
       </mg>
@@ -14146,10 +14166,11 @@
    </e>
    <e>
       <lg>
-         <l pos="V">karre veden sammen i (ilden)</l>
+         <l pos="V">karre veden sammen i</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>ilden</re>
             <t pos="V">nastedh</t>
          </tg>
       </mg>
@@ -14166,35 +14187,39 @@
    </e>
    <e>
       <lg>
-         <l pos="V">legge på (ilden)</l>
+         <l pos="V">legge på</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>ilden</re>
             <t pos="V">nastedh</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="V">tycka om (en person)</l>
+         <l pos="V">tycka om</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>en person</re>
             <t pos="V">nïekedh</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="V">flå (skinn)</l>
+         <l pos="V">flå</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>skinn</re>
             <t pos="V">njilledh</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sma">
+            <re>skinn</re>
             <t pos="V">njelledh</t>
          </tg>
       </mg>
@@ -14216,15 +14241,17 @@
    </e>
    <e>
       <lg>
-         <l pos="V">löype (never)</l>
+         <l pos="V">löype</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>never</re>
             <t pos="V">njilledh</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sma">
+            <re>never</re>
             <t pos="V">njelledh</t>
          </tg>
       </mg>
@@ -15096,10 +15123,11 @@
    </e>
    <e>
       <lg>
-         <l pos="V">barka (flera gånger)</l>
+         <l pos="V">barka</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>flera gånger</re>
             <t pos="V">rïddesadtedh</t>
          </tg>
       </mg>
@@ -15226,10 +15254,11 @@
    </e>
    <e>
       <lg>
-         <l pos="V">barka (flera saker)</l>
+         <l pos="V">barka</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>flera saker</re>
             <t pos="V">rïrresjadtedh</t>
          </tg>
       </mg>
@@ -15336,10 +15365,11 @@
    </e>
    <e>
       <lg>
-         <l pos="V">slå (boll)</l>
+         <l pos="V">slå</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>boll</re>
             <t pos="V">rovrestalledh</t>
          </tg>
       </mg>
@@ -15461,10 +15491,11 @@
    </e>
    <e>
       <lg>
-         <l pos="V">träna (konditionen)</l>
+         <l pos="V">träna</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>konditionen</re>
             <t pos="V">saavredh</t>
          </tg>
       </mg>
@@ -15911,10 +15942,11 @@
    </e>
    <e>
       <lg>
-         <l pos="V">bli klart (efter dimma)</l>
+         <l pos="V">bli klart</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>efter dimma</re>
             <t pos="V">skïerkedh</t>
          </tg>
       </mg>
@@ -16051,10 +16083,11 @@
    </e>
    <e>
       <lg>
-         <l pos="V">snacke sammen (om flere)</l>
+         <l pos="V">snacke sammen</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>om flere</re>
             <t pos="V">soptsestalledh</t>
          </tg>
       </mg>
@@ -16131,10 +16164,11 @@
    </e>
    <e>
       <lg>
-         <l pos="V">dra ner i skogsbandet (om ren)</l>
+         <l pos="V">dra ner i skogsbandet</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>om ren</re>
             <t pos="V">tjaangedh</t>
          </tg>
       </mg>
@@ -16211,20 +16245,22 @@
    </e>
    <e>
       <lg>
-         <l pos="V">stoppe (f.eks. rein)</l>
+         <l pos="V">stoppe</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>f.eks. rein</re>
             <t pos="V">tsagkedh</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="V">pakke (i sekkk)</l>
+         <l pos="V">pakke</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>i sekkk</re>
             <t pos="V">tsagkedh</t>
          </tg>
       </mg>
@@ -16321,20 +16357,22 @@
    </e>
    <e>
       <lg>
-         <l pos="V">tröttna (på något)</l>
+         <l pos="V">tröttna</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>på något</re>
             <t pos="V">vïssjehtovvedh</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="V">få nog (av något)</l>
+         <l pos="V">få nog</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>av något</re>
             <t pos="V">vïssjehtovvedh</t>
          </tg>
       </mg>
@@ -16421,10 +16459,11 @@
    </e>
    <e>
       <lg>
-         <l pos="V">se ut (som)</l>
+         <l pos="V">se ut</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>som</re>
             <t pos="V">vååjnedh</t>
          </tg>
       </mg>
@@ -16891,10 +16930,11 @@
    </e>
    <e>
       <lg>
-         <l pos="V">småpissa (om hund)</l>
+         <l pos="V">småpissa</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>om hund</re>
             <t pos="V">nyjhkedh</t>
          </tg>
       </mg>
@@ -17406,10 +17446,11 @@
    </e>
    <e>
       <lg>
-         <l pos="V">barka av (träd)</l>
+         <l pos="V">barka av</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>träd</re>
             <t pos="V">beerhkedh</t>
          </tg>
       </mg>
@@ -17451,10 +17492,11 @@
    </e>
    <e>
       <lg>
-         <l pos="V">bygga (om bäver)</l>
+         <l pos="V">bygga</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>om bäver</re>
             <t pos="V">bidtjedh</t>
          </tg>
       </mg>
@@ -17486,10 +17528,11 @@
    </e>
    <e>
       <lg>
-         <l pos="V">gnaga (om mus)</l>
+         <l pos="V">gnaga</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>om mus</re>
             <t pos="V">birnjedh</t>
          </tg>
       </mg>
@@ -17536,30 +17579,34 @@
    </e>
    <e>
       <lg>
-         <l pos="V">breda ut (t.ex. kläder)</l>
+         <l pos="V">breda ut</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>t.ex. kläder</re>
             <t pos="V">bujredh</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="V">sticka ned (ren)</l>
+         <l pos="V">sticka ned</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>ren</re>
             <t pos="V">bupmedh</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sma">
+            <re>ren</re>
             <t pos="V">bopmesjidh</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sma">
+            <re>ren</re>
             <t pos="V">hååjpestidh</t>
          </tg>
       </mg>
@@ -17576,10 +17623,11 @@
    </e>
    <e>
       <lg>
-         <l pos="V">blåsa upp (t.ex. ballong)</l>
+         <l pos="V">blåsa upp</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>t.ex. ballong</re>
             <t pos="V">bussedh</t>
          </tg>
       </mg>
@@ -17611,30 +17659,34 @@
    </e>
    <e>
       <lg>
-         <l pos="V">slita av (en gång)</l>
+         <l pos="V">slita av</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>en gång</re>
             <t pos="V">böörhkedh</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sma">
+            <re>en gång</re>
             <t pos="V">böötkedh</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="V">dela renflock (om hund)</l>
+         <l pos="V">dela renflock</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>om hund</re>
             <t pos="V">böörhkedh</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sma">
+            <re>om hund</re>
             <t pos="V">böötkedh</t>
          </tg>
       </mg>
@@ -17661,10 +17713,11 @@
    </e>
    <e>
       <lg>
-         <l pos="V">sätta (något) i rörelse</l>
+         <l pos="V">sätta i rörelse</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>något</re>
             <t pos="V">böövsedh</t>
          </tg>
       </mg>
@@ -17731,10 +17784,11 @@
    </e>
    <e>
       <lg>
-         <l pos="V">lägga (på tork)</l>
+         <l pos="V">lägga</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>på tork</re>
             <t pos="V">deejedh</t>
          </tg>
       </mg>
@@ -17876,20 +17930,22 @@
    </e>
    <e>
       <lg>
-         <l pos="V">(sydl) stånga och röra sig</l>
+         <l pos="V">stånga och röra sig</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>sydl</re>
             <t pos="V">deemtjedh</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="V">lura (i affärer)</l>
+         <l pos="V">lura</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>i affärer</re>
             <t pos="V">deeredh</t>
          </tg>
       </mg>
@@ -17996,15 +18052,17 @@
    </e>
    <e>
       <lg>
-         <l pos="V">tina (om skare och snö)</l>
+         <l pos="V">tina</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>om skare och snö</re>
             <t pos="V">dimhtedh</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sma">
+            <re>om skare och snö</re>
             <t pos="V">diphtedh</t>
          </tg>
       </mg>
@@ -18046,10 +18104,11 @@
    </e>
    <e>
       <lg>
-         <l pos="V">trampa ned och smutsa ned (om ren)</l>
+         <l pos="V">trampa ned och smutsa ned</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>om ren</re>
             <t pos="V">dulmedh</t>
          </tg>
       </mg>
@@ -18101,10 +18160,11 @@
    </e>
    <e>
       <lg>
-         <l pos="V">risa (t.ex. småbarn)</l>
+         <l pos="V">risa</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>t.ex. småbarn</re>
             <t pos="V">duskedh</t>
          </tg>
       </mg>
@@ -18161,10 +18221,11 @@
    </e>
    <e>
       <lg>
-         <l pos="V">slå till (med ett föremål)</l>
+         <l pos="V">slå till</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>med ett föremål</re>
             <t pos="V">dööskedh</t>
          </tg>
       </mg>
@@ -18281,10 +18342,11 @@
    </e>
    <e>
       <lg>
-         <l pos="V">uppmuntra (till arbete)</l>
+         <l pos="V">uppmuntra</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>till arbete</re>
             <t pos="V">eevtjedh</t>
          </tg>
       </mg>
@@ -18301,20 +18363,22 @@
    </e>
    <e>
       <lg>
-         <l pos="V">tända upp (eld)</l>
+         <l pos="V">tända upp</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>eld</re>
             <t pos="V">feedtedh</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="V">(nordl.) få fyr på slocknande eld</l>
+         <l pos="V">få fyr på slocknande eld</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>nordl.</re>
             <t pos="V">feedtedh</t>
          </tg>
       </mg>
@@ -18401,10 +18465,11 @@
    </e>
    <e>
       <lg>
-         <l pos="V">driva (om snö)</l>
+         <l pos="V">driva</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>om snö</re>
             <t pos="V">feelpedh</t>
          </tg>
       </mg>
@@ -18471,10 +18536,11 @@
    </e>
    <e>
       <lg>
-         <l pos="V">uppfostra (djur)</l>
+         <l pos="V">uppfostra</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>djur</re>
             <t pos="V">feeredh</t>
          </tg>
       </mg>
@@ -18551,40 +18617,44 @@
    </e>
    <e>
       <lg>
-         <l pos="V">dekorera (klädesplagg)</l>
+         <l pos="V">dekorera</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>klädesplagg</re>
             <t pos="V">feevredh</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="V">få (som gåva e.dyl.)</l>
+         <l pos="V">få</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>som gåva e.dyl.</re>
             <t pos="V">fihkedh</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="V">strö (salt/pepper eller liknande)</l>
+         <l pos="V">strö</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>salt/pepper eller liknande</re>
             <t pos="V">firhkedh</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="V">falla (om snö)</l>
+         <l pos="V">falla</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>om snö</re>
             <t pos="V">firhkedh</t>
          </tg>
       </mg>
@@ -18706,20 +18776,22 @@
    </e>
    <e>
       <lg>
-         <l pos="V">få hård skare (om fjäll)</l>
+         <l pos="V">få hård skare</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>om fjäll</re>
             <t pos="V">flijnedh</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="V">stiga (om tidvatten)</l>
+         <l pos="V">stiga</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>om tidvatten</re>
             <t pos="V">flööredh</t>
          </tg>
       </mg>
@@ -18791,10 +18863,11 @@
    </e>
    <e>
       <lg>
-         <l pos="V">nysta upp (trådar/hår)</l>
+         <l pos="V">nysta upp</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>trådar/hår</re>
             <t pos="V">geelkedh</t>
          </tg>
       </mg>
@@ -18881,20 +18954,22 @@
    </e>
    <e>
       <lg>
-         <l pos="V">stryka hornen (om hanren)</l>
+         <l pos="V">stryka hornen</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>om hanren</re>
             <t pos="V">gööledh</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="V">hacka upp (t.ex. kött)</l>
+         <l pos="V">hacka upp</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>t.ex. kött</re>
             <t pos="V">heehkedh</t>
          </tg>
       </mg>
@@ -18981,20 +19056,22 @@
    </e>
    <e>
       <lg>
-         <l pos="V">göra snön mjuk (om vinden)</l>
+         <l pos="V">göra snön mjuk</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>om vinden</re>
             <t pos="V">heepsedh</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="V">yra/virvla över (spår etc.)</l>
+         <l pos="V">yra/virvla över</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>spår etc.</re>
             <t pos="V">heepsedh</t>
          </tg>
       </mg>
@@ -19041,10 +19118,11 @@
    </e>
    <e>
       <lg>
-         <l pos="V">sprida/skingra (renhjord)</l>
+         <l pos="V">sprida/skingra</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>renhjord</re>
             <t pos="V">heesedh</t>
          </tg>
       </mg>
@@ -19071,10 +19149,11 @@
    </e>
    <e>
       <lg>
-         <l pos="V">(sydl.) berömma</l>
+         <l pos="V">berömma</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>sydl.</re>
             <t pos="V">heevedh</t>
          </tg>
       </mg>
@@ -19121,30 +19200,34 @@
    </e>
    <e>
       <lg>
-         <l pos="V">svänga med hornen (om ren)</l>
+         <l pos="V">svänga med hornen</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>om ren</re>
             <t pos="V">hirredh</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sma">
+            <re>om ren</re>
             <t pos="V">hirrelidh</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="V">skaka (någon)</l>
+         <l pos="V">skaka</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>någon</re>
             <t pos="V">hirredh</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sma">
+            <re>någon</re>
             <t pos="V">hirrelidh</t>
          </tg>
       </mg>
@@ -19166,10 +19249,11 @@
    </e>
    <e>
       <lg>
-         <l pos="V">yla (om hund/varg)</l>
+         <l pos="V">yla</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>om hund/varg</re>
             <t pos="V">hulvedh</t>
          </tg>
       </mg>
@@ -19196,10 +19280,11 @@
    </e>
    <e>
       <lg>
-         <l pos="V">jaga till skogs (kossor)</l>
+         <l pos="V">jaga till skogs</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>kossor</re>
             <t pos="V">huskedh</t>
          </tg>
       </mg>
@@ -19451,10 +19536,11 @@
    </e>
    <e>
       <lg>
-         <l pos="V">fisa tyst (sydl) falla (om stjärna)</l>
+         <l pos="V">fisa tyst falla</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>sydl, om stjärna</re>
             <t pos="V">juvsedh</t>
          </tg>
       </mg>
@@ -19566,10 +19652,11 @@
    </e>
    <e>
       <lg>
-         <l pos="V">bajsa (om djur) (sydl) krysta</l>
+         <l pos="V">bajsa krysta</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>om djur, sydl</re>
             <t pos="V">krigkedh</t>
          </tg>
       </mg>
@@ -19611,15 +19698,17 @@
    </e>
    <e>
       <lg>
-         <l pos="V">värka (tex. fot)</l>
+         <l pos="V">värka</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>tex. fot</re>
             <t pos="V">leegedh</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sma">
+            <re>tex. fot</re>
             <t pos="V">löökedh</t>
          </tg>
       </mg>
@@ -19786,10 +19875,11 @@
    </e>
    <e>
       <lg>
-         <l pos="V">skrika (om småbarn)/ryta (om björn)</l>
+         <l pos="V">skrika /ryta</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>om småbarn, om björn</re>
             <t pos="V">meeredh</t>
          </tg>
       </mg>
@@ -19961,10 +20051,11 @@
    </e>
    <e>
       <lg>
-         <l pos="V">göra genomvåt (om regn)/pina</l>
+         <l pos="V">göra genomvåt /pina</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>om regn</re>
             <t pos="V">peesedh</t>
          </tg>
       </mg>
@@ -19986,20 +20077,22 @@
    </e>
    <e>
       <lg>
-         <l pos="V">skrapa omkring (om ren)</l>
+         <l pos="V">skrapa omkring</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>om ren</re>
             <t pos="V">pleehtjedh</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="V">glänsa (tex. stjärna)</l>
+         <l pos="V">glänsa</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>tex. stjärna</re>
             <t pos="V">plijredh</t>
          </tg>
       </mg>
@@ -20076,10 +20169,11 @@
    </e>
    <e>
       <lg>
-         <l pos="V">trötta ut (tex. hund) sticka hål på böld</l>
+         <l pos="V">trötta ut sticka hål på böld</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>tex. hund</re>
             <t pos="V">plööhkedh</t>
          </tg>
       </mg>
@@ -20131,10 +20225,11 @@
    </e>
    <e>
       <lg>
-         <l pos="V">lägga (ut) över</l>
+         <l pos="V">lägga över</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>ut</re>
             <t pos="V">preejredh</t>
          </tg>
       </mg>
@@ -20196,10 +20291,11 @@
    </e>
    <e>
       <lg>
-         <l pos="V">vrida (tex. testiklar)/skrapa</l>
+         <l pos="V">vrida /skrapa</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>tex. testiklar</re>
             <t pos="V">pruvvedh</t>
          </tg>
       </mg>
@@ -20246,10 +20342,11 @@
    </e>
    <e>
       <lg>
-         <l pos="V">räfsa/blåsa bort (om snö)</l>
+         <l pos="V">räfsa/blåsa bort</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>om snö</re>
             <t pos="V">reehkedh</t>
          </tg>
       </mg>
@@ -20286,10 +20383,11 @@
    </e>
    <e>
       <lg>
-         <l pos="V">stoja (om barn) göra färdigt</l>
+         <l pos="V">stoja göra färdigt</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>om barn</re>
             <t pos="V">reejredh</t>
          </tg>
       </mg>
@@ -20381,10 +20479,11 @@
    </e>
    <e>
       <lg>
-         <l pos="V">irritera (sydl) samla småved som ligger på marken</l>
+         <l pos="V">irritera samla småved som ligger på marken</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>sydl</re>
             <t pos="V">reesmedh</t>
          </tg>
       </mg>
@@ -20446,10 +20545,11 @@
    </e>
    <e>
       <lg>
-         <l pos="V">råma (om ko)</l>
+         <l pos="V">råma</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>om ko</re>
             <t pos="V">reevstedh</t>
          </tg>
       </mg>
@@ -20466,10 +20566,11 @@
    </e>
    <e>
       <lg>
-         <l pos="V">stoppa ned (tex. i påse)</l>
+         <l pos="V">stoppa ned</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>tex. i påse</re>
             <t pos="V">rijtedh</t>
          </tg>
       </mg>
@@ -20506,10 +20607,11 @@
    </e>
    <e>
       <lg>
-         <l pos="V">repa (om kniv)</l>
+         <l pos="V">repa</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>om kniv</re>
             <t pos="V">rirhmedh</t>
          </tg>
       </mg>
@@ -20551,50 +20653,56 @@
    </e>
    <e>
       <lg>
-         <l pos="V">slicka urin (om ren)</l>
+         <l pos="V">slicka urin</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>om ren</re>
             <t pos="V">rutjkedh</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sma">
+            <re>om ren</re>
             <t pos="V">rotjkesjidh</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sma">
+            <re>om ren</re>
             <t pos="V">råådtjesjidh</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="V">gråta/knorra (om magen)</l>
+         <l pos="V">gråta/knorra</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>om magen</re>
             <t pos="V">rööledh</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="V">röja ordentligt (tex. småskog)</l>
+         <l pos="V">röja ordentligt</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>tex. småskog</re>
             <t pos="V">röönjedh</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="V">smärta/smälla (om eld)</l>
+         <l pos="V">smärta/smälla</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>om eld</re>
             <t pos="V">röösedh</t>
          </tg>
       </mg>
@@ -20611,20 +20719,22 @@
    </e>
    <e>
       <lg>
-         <l pos="V">strö/sprida ngt (tex. renhjord)</l>
+         <l pos="V">strö/sprida ngt</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>tex. renhjord</re>
             <t pos="V">seejedh</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="V">kalva/abortera kalven (om vaja)</l>
+         <l pos="V">kalva/abortera kalven</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>om vaja</re>
             <t pos="V">seehpedh</t>
          </tg>
       </mg>
@@ -20701,10 +20811,11 @@
    </e>
    <e>
       <lg>
-         <l pos="V">isbeläggas (tex. skida)</l>
+         <l pos="V">isbeläggas</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>tex. skida</re>
             <t pos="V">sihkedh</t>
          </tg>
       </mg>
@@ -20781,10 +20892,11 @@
    </e>
    <e>
       <lg>
-         <l pos="V">smälta (få att smälta)</l>
+         <l pos="V">smälta</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>få att smälta</re>
             <t pos="V">sjilkedh</t>
          </tg>
       </mg>
@@ -20886,10 +20998,11 @@
    </e>
    <e>
       <lg>
-         <l pos="V">slita av hår (från päls)</l>
+         <l pos="V">slita av hår</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>från päls</re>
             <t pos="V">skilhtjedh</t>
          </tg>
       </mg>
@@ -20916,10 +21029,11 @@
    </e>
    <e>
       <lg>
-         <l pos="V">skrika (om fågel)</l>
+         <l pos="V">skrika</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>om fågel</re>
             <t pos="V">skreekedh</t>
          </tg>
       </mg>
@@ -21031,10 +21145,11 @@
    </e>
    <e>
       <lg>
-         <l pos="V">skava (tex. om sko)</l>
+         <l pos="V">skava</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>tex. om sko</re>
             <t pos="V">skööpedh</t>
          </tg>
       </mg>
@@ -21061,10 +21176,11 @@
    </e>
    <e>
       <lg>
-         <l pos="V">hälla ut (tex. vatten) en gång</l>
+         <l pos="V">hälla ut en gång</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>tex. vatten</re>
             <t pos="V">sleebpedh</t>
          </tg>
       </mg>
@@ -21161,20 +21277,22 @@
    </e>
    <e>
       <lg>
-         <l pos="V">gå tillbaks till normal vattennivå (älv)</l>
+         <l pos="V">gå tillbaks till normal vattennivå</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>älv</re>
             <t pos="V">slööhtedh</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="V">mojna (vind)</l>
+         <l pos="V">mojna</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>vind</re>
             <t pos="V">slööjmedh</t>
          </tg>
       </mg>
@@ -21191,20 +21309,22 @@
    </e>
    <e>
       <lg>
-         <l pos="V">gå i uväntad riktning (om renhjord)</l>
+         <l pos="V">gå i uväntad riktning</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>om renhjord</re>
             <t pos="V">smuvvedh</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="V">dra sig undan (både om människor och djur)</l>
+         <l pos="V">dra sig undan</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>både om människor och djur</re>
             <t pos="V">smuvvedh</t>
          </tg>
       </mg>
@@ -21261,10 +21381,11 @@
    </e>
    <e>
       <lg>
-         <l pos="V">skälla (om hund)</l>
+         <l pos="V">skälla</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>om hund</re>
             <t pos="V">sneertedh</t>
          </tg>
       </mg>
@@ -21286,10 +21407,11 @@
    </e>
    <e>
       <lg>
-         <l pos="V">skälla en gång (om hund)</l>
+         <l pos="V">skälla en gång</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>om hund</re>
             <t pos="V">snjeelhkedh</t>
          </tg>
       </mg>
@@ -21441,10 +21563,11 @@
    </e>
    <e>
       <lg>
-         <l pos="V">bort från hjorden (om ren)</l>
+         <l pos="V">bort från hjorden</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>om ren</re>
             <t pos="V">sprijnedh</t>
          </tg>
       </mg>
@@ -21501,10 +21624,11 @@
    </e>
    <e>
       <lg>
-         <l pos="V">vara svår att ha och göra med (berusad eller sinnessjuk person)</l>
+         <l pos="V">vara svår att ha och göra med</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>berusad eller sinnessjuk person</re>
             <t pos="V">steentedh</t>
          </tg>
       </mg>
@@ -21521,10 +21645,11 @@
    </e>
    <e>
       <lg>
-         <l pos="V">sryka av (tex. vatten från ngt)</l>
+         <l pos="V">sryka av</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>tex. vatten från ngt</re>
             <t pos="V">strihkedh</t>
          </tg>
       </mg>
@@ -21596,20 +21721,22 @@
    </e>
    <e>
       <lg>
-         <l pos="V">bita en gång (om hund)</l>
+         <l pos="V">bita en gång</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>om hund</re>
             <t pos="V">stööledh</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="V">uppehålla sej där det är bra bete (om ren)</l>
+         <l pos="V">uppehålla sej där det är bra bete</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>om ren</re>
             <t pos="V">stöövedh</t>
          </tg>
       </mg>
@@ -21641,10 +21768,11 @@
    </e>
    <e>
       <lg>
-         <l pos="V">ta av från (tex. stig)</l>
+         <l pos="V">ta av från</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>tex. stig</re>
             <t pos="V">sveehkedh</t>
          </tg>
       </mg>
@@ -21681,10 +21809,11 @@
    </e>
    <e>
       <lg>
-         <l pos="V">abortera (om vaja)</l>
+         <l pos="V">abortera</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>om vaja</re>
             <t pos="V">sööhpedh</t>
          </tg>
       </mg>
@@ -21781,10 +21910,11 @@
    </e>
    <e>
       <lg>
-         <l pos="V">packa (tex. för flytt)</l>
+         <l pos="V">packa</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>tex. för flytt</re>
             <t pos="V">tjöönedh</t>
          </tg>
       </mg>
@@ -21891,10 +22021,11 @@
    </e>
    <e>
       <lg>
-         <l pos="V">riva i stycker (om hund)</l>
+         <l pos="V">riva i stycker</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>om hund</re>
             <t pos="V">ulhtedh</t>
          </tg>
       </mg>
@@ -21911,15 +22042,17 @@
    </e>
    <e>
       <lg>
-         <l pos="V">stjäla el. förstöra ngt för att ha att tugga på (om hund)</l>
+         <l pos="V">stjäla el. förstöra ngt för att ha att tugga på</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>om hund</re>
             <t pos="V">ultedh</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sma">
+            <re>om hund</re>
             <t pos="V">urtedh</t>
          </tg>
       </mg>
@@ -21956,10 +22089,11 @@
    </e>
    <e>
       <lg>
-         <l pos="V">äta (om fågel)/hugga ner träd för att renen ska komma åt laven/falla (om löv)</l>
+         <l pos="V">äta /hugga ner träd för att renen ska komma åt laven/falla</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>om fågel, om löv</re>
             <t pos="V">urpedh</t>
          </tg>
       </mg>
@@ -22316,10 +22450,11 @@
    </e>
    <e>
       <lg>
-         <l pos="V">sticka nackstick (på flera)</l>
+         <l pos="V">sticka nackstick</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>på flera</re>
             <t pos="V">ajpedidh</t>
          </tg>
       </mg>
@@ -22466,10 +22601,11 @@
    </e>
    <e>
       <lg>
-         <l pos="V">dämmas upp (om bäck)</l>
+         <l pos="V">dämmas upp</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>om bäck</re>
             <t pos="V">baarvesjidh</t>
          </tg>
       </mg>
@@ -22496,10 +22632,11 @@
    </e>
    <e>
       <lg>
-         <l pos="V">ble efter (om flera)</l>
+         <l pos="V">ble efter</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>om flera</re>
             <t pos="V">baatsedidh</t>
          </tg>
       </mg>
@@ -22556,10 +22693,11 @@
    </e>
    <e>
       <lg>
-         <l pos="V">lyfta (en sten)</l>
+         <l pos="V">lyfta</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>en sten</re>
             <t pos="V">baavhkestidh</t>
          </tg>
       </mg>
@@ -22726,15 +22864,17 @@
    </e>
    <e>
       <lg>
-         <l pos="V">döda (ett djur)</l>
+         <l pos="V">döda</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>ett djur</re>
             <t pos="V">baktjelidh</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sma">
+            <re>ett djur</re>
             <t pos="V">baskelidh</t>
          </tg>
       </mg>
@@ -22806,10 +22946,11 @@
    </e>
    <e>
       <lg>
-         <l pos="V">sluka i sig (om hund)</l>
+         <l pos="V">sluka i sig</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>om hund</re>
             <t pos="V">bansjelidh</t>
          </tg>
       </mg>
@@ -22846,10 +22987,11 @@
    </e>
    <e>
       <lg>
-         <l pos="V">springa ifrån (någon el. något)</l>
+         <l pos="V">springa ifrån</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>någon el. något</re>
             <t pos="V">bahrkelidh</t>
          </tg>
       </mg>
@@ -22876,30 +23018,33 @@
    </e>
    <e>
       <lg>
-         <l pos="V">riva ihjäl (om rovdjur)</l>
+         <l pos="V">riva ihjäl</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>om rovdjur</re>
             <t pos="V">barhvesjidh</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="V">ryka (om tobak)</l>
+         <l pos="V">ryka</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>om tobak</re>
             <t pos="V">barjestidh</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="V">komma i full fart (om ren som drivs)</l>
+         <l pos="V">komma i full fart</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>om ren som drivs</re>
             <t pos="V">barkestidh</t>
          </tg>
       </mg>
@@ -22916,10 +23061,11 @@
    </e>
    <e>
       <lg>
-         <l pos="V">stapla upp (i flera staplar)</l>
+         <l pos="V">stapla upp</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>i flera staplar</re>
             <t pos="V">bartelidh</t>
          </tg>
       </mg>
@@ -22976,10 +23122,11 @@
    </e>
    <e>
       <lg>
-         <l pos="V">sticka ned (t.ex. ren)</l>
+         <l pos="V">sticka ned</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>t.ex. ren</re>
             <t pos="V">baskeridh</t>
          </tg>
       </mg>
@@ -23006,25 +23153,28 @@
    </e>
    <e>
       <lg>
-         <l pos="V">kasta pudersnö (på person)</l>
+         <l pos="V">kasta pudersnö</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>på person</re>
             <t pos="V">bavhkehtidh</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="V">döda (många)</l>
+         <l pos="V">döda</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>många</re>
             <t pos="V">bavvelidh</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sma">
+            <re>många</re>
             <t pos="V">bovvelidh</t>
          </tg>
       </mg>
@@ -23071,10 +23221,11 @@
    </e>
    <e>
       <lg>
-         <l pos="V">stiga upp (om rök)</l>
+         <l pos="V">stiga upp</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>om rök</re>
             <t pos="V">berkiestidh</t>
          </tg>
       </mg>
@@ -23101,20 +23252,22 @@
    </e>
    <e>
       <lg>
-         <l pos="V">få (någon) att be</l>
+         <l pos="V">få att be</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>någon</re>
             <t pos="V">birrehtidh</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="V">dränka (ett djur)</l>
+         <l pos="V">dränka</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>ett djur</re>
             <t pos="V">bitnehtidh</t>
          </tg>
       </mg>
@@ -23141,10 +23294,11 @@
    </e>
    <e>
       <lg>
-         <l pos="V">bajsa (om ren)</l>
+         <l pos="V">bajsa</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>om ren</re>
             <t pos="V">bïehkestidh</t>
          </tg>
       </mg>
@@ -23236,10 +23390,11 @@
    </e>
    <e>
       <lg>
-         <l pos="V">bekänna (sina synder)</l>
+         <l pos="V">bekänna</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>sina synder</re>
             <t pos="V">bïjhkesjidh</t>
          </tg>
       </mg>
@@ -23276,10 +23431,11 @@
    </e>
    <e>
       <lg>
-         <l pos="V">bli (in)smort (om skinn etc.)</l>
+         <l pos="V">bli smort</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>in, om skinn etc.</re>
             <t pos="V">bodtjelgidh</t>
          </tg>
       </mg>
@@ -23361,15 +23517,17 @@
    </e>
    <e>
       <lg>
-         <l pos="V">sticka hjärtsticket (på ren)</l>
+         <l pos="V">sticka hjärtsticket</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>på ren</re>
             <t pos="V">boerkesjidh</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sma">
+            <re>på ren</re>
             <t pos="V">boerkestidh</t>
          </tg>
       </mg>
@@ -23461,10 +23619,11 @@
    </e>
    <e>
       <lg>
-         <l pos="V">bli uppsväld (om kropp)</l>
+         <l pos="V">bli uppsväld</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>om kropp</re>
             <t pos="V">bonhtegidh</t>
          </tg>
       </mg>
@@ -23536,10 +23695,11 @@
    </e>
    <e>
       <lg>
-         <l pos="V">bli uppblåst (om mage)</l>
+         <l pos="V">bli uppblåst</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>om mage</re>
             <t pos="V">bosseldidh</t>
          </tg>
       </mg>
@@ -23616,10 +23776,11 @@
    </e>
    <e>
       <lg>
-         <l pos="V">få till (något)</l>
+         <l pos="V">få till</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>något</re>
             <t pos="V">buektiehtidh</t>
          </tg>
       </mg>
@@ -23806,50 +23967,56 @@
    </e>
    <e>
       <lg>
-         <l pos="V">hålla på och äta (om fåglar)</l>
+         <l pos="V">hålla på och äta</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>om fåglar</re>
             <t pos="V">bååjmedidh</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="V">träffa (om skott)</l>
+         <l pos="V">träffa</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>om skott</re>
             <t pos="V">båånesjidh</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="V">vara eller blir orolig (om människa)</l>
+         <l pos="V">vara eller blir orolig</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>om människa</re>
             <t pos="V">bååntserdidh</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sma">
+            <re>om människa</re>
             <t pos="V">bååntseridh</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="V">kasta sig hit och dit (om ren)</l>
+         <l pos="V">kasta sig hit och dit</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>om ren</re>
             <t pos="V">bååntserdidh</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sma">
+            <re>om ren</re>
             <t pos="V">bååntseridh</t>
          </tg>
       </mg>
@@ -23881,10 +24048,11 @@
    </e>
    <e>
       <lg>
-         <l pos="V">inte komma vidare (vara tvungen att vända)</l>
+         <l pos="V">inte komma vidare</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>vara tvungen att vända</re>
             <t pos="V">bååresidh</t>
          </tg>
       </mg>
@@ -23931,10 +24099,11 @@
    </e>
    <e>
       <lg>
-         <l pos="V">hålla på och riva (enträd)</l>
+         <l pos="V">hålla på och riva</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>enträd</re>
             <t pos="V">bååhrkedidh</t>
          </tg>
       </mg>
@@ -23986,20 +24155,22 @@
    </e>
    <e>
       <lg>
-         <l pos="V">stryka och klappa (hund)</l>
+         <l pos="V">stryka och klappa</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>hund</re>
             <t pos="V">daajesjidh</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="V">söla ner (kläder)</l>
+         <l pos="V">söla ner</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>kläder</re>
             <t pos="V">daajsehtidh</t>
          </tg>
       </mg>
@@ -24061,10 +24232,11 @@
    </e>
    <e>
       <lg>
-         <l pos="V">ha ring runt sig (om solen)</l>
+         <l pos="V">ha ring runt sig</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>om solen</re>
             <t pos="V">daavlesidh</t>
          </tg>
       </mg>
@@ -24166,10 +24338,11 @@
    </e>
    <e>
       <lg>
-         <l pos="V">gå/slå igen (om dörr)</l>
+         <l pos="V">gå/slå igen</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>om dörr</re>
             <t pos="V">dahpesidh</t>
          </tg>
       </mg>
@@ -24296,20 +24469,22 @@
    </e>
    <e>
       <lg>
-         <l pos="V">tvinna sig (om sena)</l>
+         <l pos="V">tvinna sig</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>om sena</re>
             <t pos="V">darhperdidh</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="V">hastigt steka (kött) på spett</l>
+         <l pos="V">hastigt steka på spett</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>kött</re>
             <t pos="V">darrelidh</t>
          </tg>
       </mg>
@@ -24326,10 +24501,11 @@
    </e>
    <e>
       <lg>
-         <l pos="V">bli fördärvad (moraliskt)</l>
+         <l pos="V">bli fördärvad</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>moraliskt</re>
             <t pos="V">darvenidh</t>
          </tg>
       </mg>
@@ -24346,10 +24522,11 @@
    </e>
    <e>
       <lg>
-         <l pos="V">mista (flera föremål)</l>
+         <l pos="V">mista</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>flera föremål</re>
             <t pos="V">dassedidh</t>
          </tg>
       </mg>
@@ -24386,40 +24563,45 @@
    </e>
    <e>
       <lg>
-         <l pos="V">skynda sig att ta renen (innan den hinner springa iväg för långt)</l>
+         <l pos="V">skynda sig att ta renen</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>innan den hinner springa iväg för långt</re>
             <t pos="V">davrelidh</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="V">stötta (flera)</l>
+         <l pos="V">stötta</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>flera</re>
             <t pos="V">davtelidh</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sma">
+            <re>flera</re>
             <t pos="V">dovtelidh</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="V">lägga (flera föremål) under press</l>
+         <l pos="V">lägga under press</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>flera föremål</re>
             <t pos="V">deadtelidh</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sma">
+            <re>flera föremål</re>
             <t pos="V">dïedtelidh</t>
          </tg>
       </mg>
@@ -24461,25 +24643,28 @@
    </e>
    <e>
       <lg>
-         <l pos="V">söla (om människa)</l>
+         <l pos="V">söla</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>om människa</re>
             <t pos="V">dearjesjidh</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sma">
+            <re>om människa</re>
             <t pos="V">dïerjesjidh</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="V">komma till skada och kasta kalven (om vaja)</l>
+         <l pos="V">komma till skada och kasta kalven</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>om vaja</re>
             <t pos="V">deaveridh</t>
          </tg>
       </mg>
@@ -24506,10 +24691,11 @@
    </e>
    <e>
       <lg>
-         <l pos="V">lägga tillrätta i sko (om skohö)</l>
+         <l pos="V">lägga tillrätta i sko</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>om skohö</re>
             <t pos="V">deejehtidh</t>
          </tg>
       </mg>
@@ -24526,10 +24712,11 @@
    </e>
    <e>
       <lg>
-         <l pos="V">tämja (flera djur)</l>
+         <l pos="V">tämja</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>flera djur</re>
             <t pos="V">deemedidh</t>
          </tg>
       </mg>
@@ -24561,30 +24748,33 @@
    </e>
    <e>
       <lg>
-         <l pos="V">vara uppe och pyssla (om gamlingar)</l>
+         <l pos="V">vara uppe och pyssla</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>om gamlingar</re>
             <t pos="V">deervesjidh</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="V">fästa (på något)</l>
+         <l pos="V">fästa</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>på något</re>
             <t pos="V">dibrehtidh</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="V">ta fast (ren)</l>
+         <l pos="V">ta fast</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>ren</re>
             <t pos="V">dibrehtidh</t>
          </tg>
       </mg>
@@ -24601,10 +24791,11 @@
    </e>
    <e>
       <lg>
-         <l pos="V">kasta in (ren) fort</l>
+         <l pos="V">kasta in fort</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>ren</re>
             <t pos="V">dibrelidh</t>
          </tg>
       </mg>
@@ -24661,10 +24852,11 @@
    </e>
    <e>
       <lg>
-         <l pos="V">böja sig med med överkroppen (om flera)</l>
+         <l pos="V">böja sig med med överkroppen</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>om flera</re>
             <t pos="V">dikngedidh</t>
          </tg>
       </mg>
@@ -24706,10 +24898,11 @@
    </e>
    <e>
       <lg>
-         <l pos="V">tala nedsättande (om person)</l>
+         <l pos="V">tala nedsättande</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>om person</re>
             <t pos="V">dïeblestidh</t>
          </tg>
       </mg>
@@ -24781,10 +24974,11 @@
    </e>
    <e>
       <lg>
-         <l pos="V">börja töa/bli våt (om snö)</l>
+         <l pos="V">börja töa/bli våt</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>om snö</re>
             <t pos="V">dïektjegidh</t>
          </tg>
       </mg>
@@ -24886,10 +25080,11 @@
    </e>
    <e>
       <lg>
-         <l pos="V">(sydl)träffas</l>
+         <l pos="V">träffas</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>sydl</re>
             <t pos="V">dïervesjidh</t>
          </tg>
       </mg>
@@ -24916,10 +25111,11 @@
    </e>
    <e>
       <lg>
-         <l pos="V">bli för våt (om nysnö)</l>
+         <l pos="V">bli för våt</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>om nysnö</re>
             <t pos="V">dïetjkehtidh</t>
          </tg>
       </mg>
@@ -24966,10 +25162,11 @@
    </e>
    <e>
       <lg>
-         <l pos="V">(sydl) gräla</l>
+         <l pos="V">gräla</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>sydl</re>
             <t pos="V">dïjveldidh</t>
          </tg>
       </mg>
@@ -25061,10 +25258,11 @@
    </e>
    <e>
       <lg>
-         <l pos="V">döma (om domare)</l>
+         <l pos="V">döma</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>om domare</re>
             <t pos="V">doemesjidh</t>
          </tg>
       </mg>
@@ -25091,10 +25289,11 @@
    </e>
    <e>
       <lg>
-         <l pos="V">vittja (flera nät)</l>
+         <l pos="V">vittja</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>flera nät</re>
             <t pos="V">doeredidh</t>
          </tg>
       </mg>
@@ -25126,40 +25325,44 @@
    </e>
    <e>
       <lg>
-         <l pos="V">(sydl) bita (om fisk)</l>
+         <l pos="V">bita</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>sydl, om fisk</re>
             <t pos="V">doerelidh</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="V">belägga med ris (kåtan)</l>
+         <l pos="V">belägga med ris</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>kåtan</re>
             <t pos="V">doerkestidh</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="V">kallna (om mat)</l>
+         <l pos="V">kallna</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>om mat</re>
             <t pos="V">doesnestidh</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="V">bli kyligare (om väder)</l>
+         <l pos="V">bli kyligare</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>om väder</re>
             <t pos="V">doesnestidh</t>
          </tg>
       </mg>
@@ -25191,10 +25394,11 @@
    </e>
    <e>
       <lg>
-         <l pos="V">ta bort (lite)</l>
+         <l pos="V">ta bort</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>lite</re>
             <t pos="V">domhkestidh</t>
          </tg>
       </mg>
@@ -25211,10 +25415,11 @@
    </e>
    <e>
       <lg>
-         <l pos="V">stoppa(t.ex. med kork/propp)</l>
+         <l pos="V">stoppa</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>t.ex. med kork/propp</re>
             <t pos="V">domhpesjidh</t>
          </tg>
       </mg>
@@ -25231,10 +25436,11 @@
    </e>
    <e>
       <lg>
-         <l pos="V">rota med nosen i maten (om hund)</l>
+         <l pos="V">rota med nosen i maten</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>om hund</re>
             <t pos="V">domsedidh</t>
          </tg>
       </mg>
@@ -25271,20 +25477,22 @@
    </e>
    <e>
       <lg>
-         <l pos="V">bli dåligt (om väder)</l>
+         <l pos="V">bli dåligt</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>om väder</re>
             <t pos="V">dorkelidh</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="V">bli dåligt (om vägder)</l>
+         <l pos="V">bli dåligt</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>om vägder</re>
             <t pos="V">dormenidh</t>
          </tg>
       </mg>
@@ -25341,15 +25549,17 @@
    </e>
    <e>
       <lg>
-         <l pos="V">vara sjuk(lig)/krasslig</l>
+         <l pos="V">vara sjuk/krasslig</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>lig</re>
             <t pos="V">duasmaridh</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sma">
+            <re>lig</re>
             <t pos="V">duasvaridh</t>
          </tg>
       </mg>
@@ -25386,10 +25596,11 @@
    </e>
    <e>
       <lg>
-         <l pos="V">(sydl) säga något opassade</l>
+         <l pos="V">säga något opassade</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>sydl</re>
             <t pos="V">dulhtjestidh</t>
          </tg>
       </mg>
@@ -25436,10 +25647,11 @@
    </e>
    <e>
       <lg>
-         <l pos="V">skaka upp (karbidlampa)</l>
+         <l pos="V">skaka upp</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>karbidlampa</re>
             <t pos="V">duvsjedidh</t>
          </tg>
       </mg>
@@ -25456,20 +25668,22 @@
    </e>
    <e>
       <lg>
-         <l pos="V">smeta/grisa ned ((trä)kärl)</l>
+         <l pos="V">smeta/grisa ned (</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>träkärl</re>
             <t pos="V">dyöredidh</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="V">beställa (flere aker)</l>
+         <l pos="V">beställa</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>flere aker</re>
             <t pos="V">dængkoehtidh</t>
          </tg>
       </mg>
@@ -25581,10 +25795,11 @@
    </e>
    <e>
       <lg>
-         <l pos="V">förorsaka att (ren el. människa) går igenom isen</l>
+         <l pos="V">förorsaka att går igenom isen</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>ren el. människa</re>
             <t pos="V">dåalmehtidh</t>
          </tg>
       </mg>
@@ -25681,10 +25896,11 @@
    </e>
    <e>
       <lg>
-         <l pos="V">ta emot (t.ex. gäst)</l>
+         <l pos="V">ta emot</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>t.ex. gäst</re>
             <t pos="V">dåastoehtidh</t>
          </tg>
       </mg>
@@ -25701,10 +25917,11 @@
    </e>
    <e>
       <lg>
-         <l pos="V">trava (om klotdjur)</l>
+         <l pos="V">trava</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>om klotdjur</re>
             <t pos="V">dåelviestidh</t>
          </tg>
       </mg>
@@ -25736,10 +25953,11 @@
    </e>
    <e>
       <lg>
-         <l pos="V">bomma (vid lassokastning)</l>
+         <l pos="V">bomma</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>vid lassokastning</re>
             <t pos="V">dåepkiestidh</t>
          </tg>
       </mg>
@@ -25811,10 +26029,11 @@
    </e>
    <e>
       <lg>
-         <l pos="V">springa skällande in i renhjort (om vallhund)</l>
+         <l pos="V">springa skällande in i renhjort</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>om vallhund</re>
             <t pos="V">dåvhkesjidh</t>
          </tg>
       </mg>
@@ -25841,10 +26060,11 @@
    </e>
    <e>
       <lg>
-         <l pos="V">ständigt förölja/jaga (utan avbrott)</l>
+         <l pos="V">ständigt förölja/jaga</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>utan avbrott</re>
             <t pos="V">dåålvedidh</t>
          </tg>
       </mg>
@@ -25881,20 +26101,22 @@
    </e>
    <e>
       <lg>
-         <l pos="V">döpa (barn)</l>
+         <l pos="V">döpa</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>barn</re>
             <t pos="V">dååpestidh</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="V">börja slåss (om flera)</l>
+         <l pos="V">börja slåss</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>om flera</re>
             <t pos="V">dåårijidh</t>
          </tg>
       </mg>
@@ -25926,10 +26148,11 @@
    </e>
    <e>
       <lg>
-         <l pos="V">springa skällande in i renhjorden (om hund)</l>
+         <l pos="V">springa skällande in i renhjorden</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>om hund</re>
             <t pos="V">dååvhkesidh</t>
          </tg>
       </mg>
@@ -25966,10 +26189,11 @@
    </e>
    <e>
       <lg>
-         <l pos="V">förnärma (någon)</l>
+         <l pos="V">förnärma</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>någon</re>
             <t pos="V">eadtoedidh</t>
          </tg>
       </mg>
@@ -26046,10 +26270,11 @@
    </e>
    <e>
       <lg>
-         <l pos="V">härja (om barn)</l>
+         <l pos="V">härja</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>om barn</re>
             <t pos="V">earjoehtidh</t>
          </tg>
       </mg>
@@ -26111,10 +26336,11 @@
    </e>
    <e>
       <lg>
-         <l pos="V">jäsa (om deg)</l>
+         <l pos="V">jäsa</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>om deg</re>
             <t pos="V">easadidh</t>
          </tg>
       </mg>
@@ -26186,20 +26412,22 @@
    </e>
    <e>
       <lg>
-         <l pos="V">(sydl) uppehålla</l>
+         <l pos="V">uppehålla</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>sydl</re>
             <t pos="V">eejehtidh</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="V">vittna (på religiöst möte)</l>
+         <l pos="V">vittna</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>på religiöst möte</re>
             <t pos="V">eejlestidh</t>
          </tg>
       </mg>
@@ -26226,20 +26454,22 @@
    </e>
    <e>
       <lg>
-         <l pos="V">plåga (t.ex.om mygg)</l>
+         <l pos="V">plåga</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>t.ex.om mygg</re>
             <t pos="V">eelpehtidh</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="V">störa (äv. om människor)</l>
+         <l pos="V">störa</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>äv. om människor</re>
             <t pos="V">eelpehtidh</t>
          </tg>
       </mg>
@@ -26271,10 +26501,11 @@
    </e>
    <e>
       <lg>
-         <l pos="V">ströva ensam omkring i skogen (om ren)</l>
+         <l pos="V">ströva ensam omkring i skogen</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>om ren</re>
             <t pos="V">ejvieridh</t>
          </tg>
       </mg>
@@ -26411,10 +26642,11 @@
    </e>
    <e>
       <lg>
-         <l pos="V">ströva omkring (om ren)</l>
+         <l pos="V">ströva omkring</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>om ren</re>
             <t pos="V">faalestidh</t>
          </tg>
       </mg>
@@ -26471,10 +26703,11 @@
    </e>
    <e>
       <lg>
-         <l pos="V">hålla på och arbeta (med allt slags arbete)</l>
+         <l pos="V">hålla på och arbeta</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>med allt slags arbete</re>
             <t pos="V">faektiehtidh</t>
          </tg>
       </mg>
@@ -26556,10 +26789,11 @@
    </e>
    <e>
       <lg>
-         <l pos="V">återfå medvetandet (om avsvimmad person)</l>
+         <l pos="V">återfå medvetandet</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>om avsvimmad person</re>
             <t pos="V">fahkestidh</t>
          </tg>
       </mg>
@@ -26601,35 +26835,39 @@
    </e>
    <e>
       <lg>
-         <l pos="V">spåra upp (ett djur)</l>
+         <l pos="V">spåra upp</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>ett djur</re>
             <t pos="V">feahtaskidh</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="V">falla sammanf (om skare eller is) falla igenom</l>
+         <l pos="V">falla sammanf falla igenom</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>om skare eller is</re>
             <t pos="V">fearhkedidh</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="V">plötsligt falla samman (om snö)</l>
+         <l pos="V">plötsligt falla samman</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>om snö</re>
             <t pos="V">fearhkelidh</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sma">
+            <re>om snö</re>
             <t pos="V">fïerhkelidh</t>
          </tg>
       </mg>
@@ -26666,10 +26904,11 @@
    </e>
    <e>
       <lg>
-         <l pos="V">störta ned (om regn)</l>
+         <l pos="V">störta ned</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>om regn</re>
             <t pos="V">featagidh</t>
          </tg>
       </mg>
@@ -26686,10 +26925,11 @@
    </e>
    <e>
       <lg>
-         <l pos="V">besjunga (med kärleksvisa)</l>
+         <l pos="V">besjunga</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>med kärleksvisa</re>
             <t pos="V">feevrehtidh</t>
          </tg>
       </mg>
@@ -26716,10 +26956,11 @@
    </e>
    <e>
       <lg>
-         <l pos="V">vara snabb (med arbete)</l>
+         <l pos="V">vara snabb</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>med arbete</re>
             <t pos="V">ferriedidh</t>
          </tg>
       </mg>
@@ -26821,10 +27062,11 @@
    </e>
    <e>
       <lg>
-         <l pos="V">ta och skaka litete (t.ex. hund för att tukta den)</l>
+         <l pos="V">ta och skaka litete</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>t.ex. hund för att tukta den</re>
             <t pos="V">firrestidh</t>
          </tg>
       </mg>
@@ -26851,10 +27093,11 @@
    </e>
    <e>
       <lg>
-         <l pos="V">smutsa ner något (t.ex. med mjöl eller hårstrån)</l>
+         <l pos="V">smutsa ner något</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>t.ex. med mjöl eller hårstrån</re>
             <t pos="V">fïekesjidh</t>
          </tg>
       </mg>
@@ -26921,10 +27164,11 @@
    </e>
    <e>
       <lg>
-         <l pos="V">vara (länge)</l>
+         <l pos="V">vara</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>länge</re>
             <t pos="V">fïnkesidh</t>
          </tg>
       </mg>
@@ -26956,10 +27200,11 @@
    </e>
    <e>
       <lg>
-         <l pos="V">trivas och föröka sig(om ren)</l>
+         <l pos="V">trivas och föröka sig</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>om ren</re>
             <t pos="V">flavvaskidh</t>
          </tg>
       </mg>
@@ -27006,10 +27251,11 @@
    </e>
    <e>
       <lg>
-         <l pos="V">vifta på svansen (om hund)</l>
+         <l pos="V">vifta på svansen</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>om hund</re>
             <t pos="V">flïjmerdidh</t>
          </tg>
       </mg>
@@ -27026,25 +27272,28 @@
    </e>
    <e>
       <lg>
-         <l pos="V">gå över sina bräddar (om älv)</l>
+         <l pos="V">gå över sina bräddar</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>om älv</re>
             <t pos="V">flöörestidh</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sma">
+            <re>om älv</re>
             <t pos="V">flåarastidh</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="V">fumla (med något)</l>
+         <l pos="V">fumla</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>med något</re>
             <t pos="V">foempeldidh</t>
          </tg>
       </mg>
@@ -27101,10 +27350,11 @@
    </e>
    <e>
       <lg>
-         <l pos="V">dofta (av frodig växtlighet)</l>
+         <l pos="V">dofta</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>av frodig växtlighet</re>
             <t pos="V">frievniedidh</t>
          </tg>
       </mg>
@@ -27136,15 +27386,17 @@
    </e>
    <e>
       <lg>
-         <l pos="V">flyga upp så det hörs (om järpe)</l>
+         <l pos="V">flyga upp så det hörs</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>om järpe</re>
             <t pos="V">frudkiehtidh</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sma">
+            <re>om järpe</re>
             <t pos="V">frurkiehtidh</t>
          </tg>
       </mg>
@@ -27171,30 +27423,33 @@
    </e>
    <e>
       <lg>
-         <l pos="V">(plötsligt) lukta illa</l>
+         <l pos="V">lukta illa</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>plötsligt</re>
             <t pos="V">fuekiehtidh</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="V">bli nöjd (med något)</l>
+         <l pos="V">bli nöjd</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>med något</re>
             <t pos="V">fuekiehtidh</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="V">komma till sans (om avsvimmad)</l>
+         <l pos="V">komma till sans</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>om avsvimmad</re>
             <t pos="V">fuhkiestidh</t>
          </tg>
       </mg>
@@ -27211,10 +27466,11 @@
    </e>
    <e>
       <lg>
-         <l pos="V">jämra sig (av sjukdom)</l>
+         <l pos="V">jämra sig</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>av sjukdom</re>
             <t pos="V">fujhkesidh</t>
          </tg>
       </mg>
@@ -27241,20 +27497,22 @@
    </e>
    <e>
       <lg>
-         <l pos="V">(hålla på och) skratta</l>
+         <l pos="V">skratta</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>hålla på och</re>
             <t pos="V">föörhkesjidh</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="V">leda (varjor som har kalvat) sakta efter hjorden</l>
+         <l pos="V">leda sakta efter hjorden</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>varjor som har kalvat</re>
             <t pos="V">fåarhtahtidh</t>
          </tg>
       </mg>
@@ -27321,10 +27579,11 @@
    </e>
    <e>
       <lg>
-         <l pos="V">gå upp (om dörr)</l>
+         <l pos="V">gå upp</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>om dörr</re>
             <t pos="V">gaahpanidh</t>
          </tg>
       </mg>
@@ -27341,10 +27600,11 @@
    </e>
    <e>
       <lg>
-         <l pos="V">vara vidöppen (om dörr)</l>
+         <l pos="V">vara vidöppen</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>om dörr</re>
             <t pos="V">gaahpasjidh</t>
          </tg>
       </mg>
@@ -27391,10 +27651,11 @@
    </e>
    <e>
       <lg>
-         <l pos="V">klinga (om bjällra)</l>
+         <l pos="V">klinga</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>om bjällra</re>
             <t pos="V">gaajestidh</t>
          </tg>
       </mg>
@@ -27471,10 +27732,11 @@
    </e>
    <e>
       <lg>
-         <l pos="V">(sydl) ligga full</l>
+         <l pos="V">ligga full</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>sydl</re>
             <t pos="V">gaajrasjidh</t>
          </tg>
       </mg>
@@ -27501,10 +27763,11 @@
    </e>
    <e>
       <lg>
-         <l pos="V">sätta på skorna (på någon annan)</l>
+         <l pos="V">sätta på skorna</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>på någon annan</re>
             <t pos="V">gaamehtidh</t>
          </tg>
       </mg>
@@ -27531,35 +27794,39 @@
    </e>
    <e>
       <lg>
-         <l pos="V">klättra upp på ryggen (om barn)</l>
+         <l pos="V">klättra upp på ryggen</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>om barn</re>
             <t pos="V">gaanedidh</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sma">
+            <re>om barn</re>
             <t pos="V">gaanestidh</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="V">skynda sig att packa (pulkor)</l>
+         <l pos="V">skynda sig att packa</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>pulkor</re>
             <t pos="V">gaarhkelidh</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="V">klä på (någon)</l>
+         <l pos="V">klä på</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>någon</re>
             <t pos="V">gaarvoehtidh</t>
          </tg>
       </mg>
@@ -27581,20 +27848,22 @@
    </e>
    <e>
       <lg>
-         <l pos="V">(sydl.) känna smärta</l>
+         <l pos="V">känna smärta</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>sydl.</re>
             <t pos="V">gaasedidh</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="V">sätta (ost) löpe till mjölken</l>
+         <l pos="V">sätta löpe till mjölken</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>ost</re>
             <t pos="V">gaasedidh</t>
          </tg>
       </mg>
@@ -27696,10 +27965,11 @@
    </e>
    <e>
       <lg>
-         <l pos="V">förvildas (om ren)</l>
+         <l pos="V">förvildas</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>om ren</re>
             <t pos="V">gadtaskidh</t>
          </tg>
       </mg>
@@ -27716,10 +27986,11 @@
    </e>
    <e>
       <lg>
-         <l pos="V">döda (ofta)</l>
+         <l pos="V">döda</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>ofta</re>
             <t pos="V">gadtelidh</t>
          </tg>
       </mg>
@@ -27756,10 +28027,11 @@
    </e>
    <e>
       <lg>
-         <l pos="V">(hålla på och) urinera</l>
+         <l pos="V">urinera</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>hålla på och</re>
             <t pos="V">gadtjedidh</t>
          </tg>
       </mg>
@@ -27776,25 +28048,28 @@
    </e>
    <e>
       <lg>
-         <l pos="V">mata (barn) med sked</l>
+         <l pos="V">mata med sked</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>barn</re>
             <t pos="V">gadtsehtidh</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="V">klara (av)</l>
+         <l pos="V">klara</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>av</re>
             <t pos="V">gaegniedidh</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sma">
+            <re>av</re>
             <t pos="V">nahkasjidh</t>
          </tg>
       </mg>
@@ -27841,10 +28116,11 @@
    </e>
    <e>
       <lg>
-         <l pos="V">bli kallare/kyligare (om väder)</l>
+         <l pos="V">bli kallare/kyligare</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>om väder</re>
             <t pos="V">gaeliehtidh</t>
          </tg>
       </mg>
@@ -27861,10 +28137,11 @@
    </e>
    <e>
       <lg>
-         <l pos="V">låta komma bort (t.ex. om ren)</l>
+         <l pos="V">låta komma bort</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>t.ex. om ren</re>
             <t pos="V">gaerviehtidh</t>
          </tg>
       </mg>
@@ -27891,10 +28168,11 @@
    </e>
    <e>
       <lg>
-         <l pos="V">(plötsligt) falla</l>
+         <l pos="V">falla</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>plötsligt</re>
             <t pos="V">gahtjelidh</t>
          </tg>
       </mg>
@@ -27951,10 +28229,11 @@
    </e>
    <e>
       <lg>
-         <l pos="V">låta frysa ned (kött)</l>
+         <l pos="V">låta frysa ned</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>kött</re>
             <t pos="V">galmedidh</t>
          </tg>
       </mg>
@@ -28001,20 +28280,22 @@
    </e>
    <e>
       <lg>
-         <l pos="V">frysa (om djur/människor)</l>
+         <l pos="V">frysa</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>om djur/människor</re>
             <t pos="V">garvenidh</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="V">förfrysa (t.ex. öra)</l>
+         <l pos="V">förfrysa</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>t.ex. öra</re>
             <t pos="V">garvenidh</t>
          </tg>
       </mg>
@@ -28061,10 +28342,11 @@
    </e>
    <e>
       <lg>
-         <l pos="V">ta hänsyn till (något)</l>
+         <l pos="V">ta hänsyn till</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>något</re>
             <t pos="V">geakasjidh</t>
          </tg>
       </mg>
@@ -28196,40 +28478,44 @@
    </e>
    <e>
       <lg>
-         <l pos="V">vara brunstig (om djur)</l>
+         <l pos="V">vara brunstig</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>om djur</re>
             <t pos="V">giejhkiedidh</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="V">göra sig till/fin (om kvinna)</l>
+         <l pos="V">göra sig till/fin</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>om kvinna</re>
             <t pos="V">giejhkiedidh</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="V">fråga (flera personer eller flera gånger)</l>
+         <l pos="V">fråga</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>flera personer eller flera gånger</re>
             <t pos="V">gihtjedidh</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="V">hålla på (med något)</l>
+         <l pos="V">hålla på</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>med något</re>
             <t pos="V">gïehtlidh</t>
          </tg>
       </mg>
@@ -28276,10 +28562,11 @@
    </e>
    <e>
       <lg>
-         <l pos="V">låta glida (om rem/snara)</l>
+         <l pos="V">låta glida</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>om rem/snara</re>
             <t pos="V">gïerestidh</t>
          </tg>
       </mg>
@@ -28321,10 +28608,11 @@
    </e>
    <e>
       <lg>
-         <l pos="V">krypa (t.ex. om larv)</l>
+         <l pos="V">krypa</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>t.ex. om larv</re>
             <t pos="V">goegkerdidh</t>
          </tg>
       </mg>
@@ -28391,10 +28679,11 @@
    </e>
    <e>
       <lg>
-         <l pos="V">stånga till (med hornen)</l>
+         <l pos="V">stånga till</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>med hornen</re>
             <t pos="V">gueliestidh</t>
          </tg>
       </mg>
@@ -28476,25 +28765,28 @@
    </e>
    <e>
       <lg>
-         <l pos="V">hänga upp (en sak)</l>
+         <l pos="V">hänga upp</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>en sak</re>
             <t pos="V">gæhtsasjidh</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sma">
+            <re>en sak</re>
             <t pos="V">gæhtsoestidh</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="V">ropa (en gång)</l>
+         <l pos="V">ropa</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>en gång</re>
             <t pos="V">gæljadidh</t>
          </tg>
       </mg>
@@ -28761,10 +29053,11 @@
    </e>
    <e>
       <lg>
-         <l pos="V">bli till hagel (om snö)</l>
+         <l pos="V">bli till hagel</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>om snö</re>
             <t pos="V">haagrestidh</t>
          </tg>
       </mg>
@@ -28866,10 +29159,11 @@
    </e>
    <e>
       <lg>
-         <l pos="V">bönfalla om (nåd)</l>
+         <l pos="V">bönfalla om</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>nåd</re>
             <t pos="V">haanoehtidh</t>
          </tg>
       </mg>
@@ -28926,10 +29220,11 @@
    </e>
    <e>
       <lg>
-         <l pos="V">hugga/bita till (om hund)</l>
+         <l pos="V">hugga/bita till</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>om hund</re>
             <t pos="V">haavhkestidh</t>
          </tg>
       </mg>
@@ -28946,20 +29241,22 @@
    </e>
    <e>
       <lg>
-         <l pos="V">riva (om varg)</l>
+         <l pos="V">riva</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>om varg</re>
             <t pos="V">haavrestidh</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="V">gräva sig igenom jord eller snår (om älv)</l>
+         <l pos="V">gräva sig igenom jord eller snår</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>om älv</re>
             <t pos="V">haavtaridh</t>
          </tg>
       </mg>
@@ -29001,10 +29298,11 @@
    </e>
    <e>
       <lg>
-         <l pos="V">röra sig bräckligt (om t.ex. giktbruten människa)</l>
+         <l pos="V">röra sig bräckligt</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>om t.ex. giktbruten människa</re>
             <t pos="V">haeltjiehtidh</t>
          </tg>
       </mg>
@@ -29031,20 +29329,22 @@
    </e>
    <e>
       <lg>
-         <l pos="V">visa tecken (med handen)</l>
+         <l pos="V">visa tecken</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>med handen</re>
             <t pos="V">haepiehtidh</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="V">flaxa (om fågel)</l>
+         <l pos="V">flaxa</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>om fågel</re>
             <t pos="V">haepiehtidh</t>
          </tg>
       </mg>
@@ -29061,10 +29361,11 @@
    </e>
    <e>
       <lg>
-         <l pos="V">sväva (om hök)</l>
+         <l pos="V">sväva</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>om hök</re>
             <t pos="V">haepkiesjidh</t>
          </tg>
       </mg>
@@ -29081,10 +29382,11 @@
    </e>
    <e>
       <lg>
-         <l pos="V">vara aggressiv (om hund eller fågel)</l>
+         <l pos="V">vara aggressiv</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>om hund eller fågel</re>
             <t pos="V">haetiedidh</t>
          </tg>
       </mg>
@@ -29196,20 +29498,22 @@
    </e>
    <e>
       <lg>
-         <l pos="V">få att springa fort (t.ex. om ren)</l>
+         <l pos="V">få att springa fort</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>t.ex. om ren</re>
             <t pos="V">hajkehtidh</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="V">ta till flykten (t.ex. om ren)</l>
+         <l pos="V">ta till flykten</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>t.ex. om ren</re>
             <t pos="V">hajkelidh</t>
          </tg>
       </mg>
@@ -29256,10 +29560,11 @@
    </e>
    <e>
       <lg>
-         <l pos="V">hicka (om en som druckit brännvin)</l>
+         <l pos="V">hicka</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>om en som druckit brännvin</re>
             <t pos="V">hakngehtidh</t>
          </tg>
       </mg>
@@ -29281,15 +29586,17 @@
    </e>
    <e>
       <lg>
-         <l pos="V">sända iväg hunden en gång (för att driva renarna från viloplatsen)</l>
+         <l pos="V">sända iväg hunden en gång</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>för att driva renarna från viloplatsen</re>
             <t pos="V">haktjelidh</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sma">
+            <re>för att driva renarna från viloplatsen</re>
             <t pos="V">håktselidh</t>
          </tg>
       </mg>
@@ -29306,35 +29613,39 @@
    </e>
    <e>
       <lg>
-         <l pos="V">hoppa (av fruktan)</l>
+         <l pos="V">hoppa</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>av fruktan</re>
             <t pos="V">halhkesidh</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="V">skrika hela tiden (om berguv)</l>
+         <l pos="V">skrika hela tiden</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>om berguv</re>
             <t pos="V">hamhkedidh</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sma">
+            <re>om berguv</re>
             <t pos="V">hamhkehtidh</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="V">(sydl) ljuda i fjärran</l>
+         <l pos="V">ljuda i fjärran</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>sydl</re>
             <t pos="V">hamhkesidh</t>
          </tg>
       </mg>
@@ -29366,20 +29677,22 @@
    </e>
    <e>
       <lg>
-         <l pos="V">ge iftån sig små ljud (om hund)</l>
+         <l pos="V">ge iftån sig små ljud</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>om hund</re>
             <t pos="V">hanhkedidh</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="V">ge ifrån sig små ljud (om hund)</l>
+         <l pos="V">ge ifrån sig små ljud</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>om hund</re>
             <t pos="V">hanhkehtidh</t>
          </tg>
       </mg>
@@ -29396,10 +29709,11 @@
    </e>
    <e>
       <lg>
-         <l pos="V">(sydl) gnälla</l>
+         <l pos="V">gnälla</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>sydl</re>
             <t pos="V">hapkesidh</t>
          </tg>
       </mg>
@@ -29416,25 +29730,28 @@
    </e>
    <e>
       <lg>
-         <l pos="V">kasta snö på (någon)</l>
+         <l pos="V">kasta snö på</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>någon</re>
             <t pos="V">havkehtidh</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="V">komma bort från sin mamma (om renkalv)</l>
+         <l pos="V">komma bort från sin mamma</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>om renkalv</re>
             <t pos="V">heajadidh</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sma">
+            <re>om renkalv</re>
             <t pos="V">heajanidh</t>
          </tg>
       </mg>
@@ -29486,30 +29803,34 @@
    </e>
    <e>
       <lg>
-         <l pos="V">ställa sig in (mest om hundar)</l>
+         <l pos="V">ställa sig in</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>mest om hundar</re>
             <t pos="V">heajkeldidh</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sma">
+            <re>mest om hundar</re>
             <t pos="V">heehkeldidh</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sma">
+            <re>mest om hundar</re>
             <t pos="V">heekeldidh</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="V">förbarma sig över (någon)</l>
+         <l pos="V">förbarma sig över</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>någon</re>
             <t pos="V">healladidh</t>
          </tg>
       </mg>
@@ -29541,10 +29862,11 @@
    </e>
    <e>
       <lg>
-         <l pos="V">kastrera (ren)</l>
+         <l pos="V">kastrera</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>ren</re>
             <t pos="V">hearkoehtidh</t>
          </tg>
       </mg>
@@ -29576,10 +29898,11 @@
    </e>
    <e>
       <lg>
-         <l pos="V">slutta (om terräng)</l>
+         <l pos="V">slutta</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>om terräng</re>
             <t pos="V">heavvalgidh</t>
          </tg>
       </mg>
@@ -29596,30 +29919,33 @@
    </e>
    <e>
       <lg>
-         <l pos="V">vara sugen på (mat etc.)</l>
+         <l pos="V">vara sugen på</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>mat etc.</re>
             <t pos="V">heeledidh</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="V">göra snön mjuk (om vinen)</l>
+         <l pos="V">göra snön mjuk</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>om vinen</re>
             <t pos="V">heepselidh</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="V">ra/virvla över (spår etc)</l>
+         <l pos="V">ra/virvla över</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>spår etc</re>
             <t pos="V">heepselidh</t>
          </tg>
       </mg>
@@ -29746,10 +30072,11 @@
    </e>
    <e>
       <lg>
-         <l pos="V">trösta (t.ex. ett gråtande barn)</l>
+         <l pos="V">trösta</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>t.ex. ett gråtande barn</re>
             <t pos="V">hieriehtidh</t>
          </tg>
       </mg>
@@ -29866,10 +30193,11 @@
    </e>
    <e>
       <lg>
-         <l pos="V">omkomma eller skada sig vid fall (om ren)</l>
+         <l pos="V">omkomma eller skada sig vid fall</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>om ren</re>
             <t pos="V">hohkenidh</t>
          </tg>
       </mg>
@@ -29936,10 +30264,11 @@
    </e>
    <e>
       <lg>
-         <l pos="V">passa upp (t.ex. med kaffe)</l>
+         <l pos="V">passa upp</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>t.ex. med kaffe</re>
             <t pos="V">hoksehtidh</t>
          </tg>
       </mg>
@@ -29991,10 +30320,11 @@
    </e>
    <e>
       <lg>
-         <l pos="V">skrika (om berguv)</l>
+         <l pos="V">skrika</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>om berguv</re>
             <t pos="V">homhkesidh</t>
          </tg>
       </mg>
@@ -30051,10 +30381,11 @@
    </e>
    <e>
       <lg>
-         <l pos="V">få (hund) att skälla</l>
+         <l pos="V">få att skälla</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>hund</re>
             <t pos="V">huhtiehtidh</t>
          </tg>
       </mg>
@@ -30081,25 +30412,28 @@
    </e>
    <e>
       <lg>
-         <l pos="V">hoa (om uggla)</l>
+         <l pos="V">hoa</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>om uggla</re>
             <t pos="V">humhkehtidh</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="V">låta (om enkelbeckasin)</l>
+         <l pos="V">låta</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>om enkelbeckasin</re>
             <t pos="V">humhkehtidh</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sma">
+            <re>om enkelbeckasin</re>
             <t pos="V">humhkestidh</t>
          </tg>
       </mg>
@@ -30126,10 +30460,11 @@
    </e>
    <e>
       <lg>
-         <l pos="V">vara motspänstig/ostyrig (om ren som leds)</l>
+         <l pos="V">vara motspänstig/ostyrig</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>om ren som leds</re>
             <t pos="V">hursiedidh</t>
          </tg>
       </mg>
@@ -30146,10 +30481,11 @@
    </e>
    <e>
       <lg>
-         <l pos="V">lugga (en gång)</l>
+         <l pos="V">lugga</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>en gång</re>
             <t pos="V">hurvestidh</t>
          </tg>
       </mg>
@@ -30176,10 +30512,11 @@
    </e>
    <e>
       <lg>
-         <l pos="V">avliva (hund)</l>
+         <l pos="V">avliva</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>hund</re>
             <t pos="V">huvviestidh</t>
          </tg>
       </mg>
@@ -30206,20 +30543,22 @@
    </e>
    <e>
       <lg>
-         <l pos="V">häckla/kamma (skohö)</l>
+         <l pos="V">häckla/kamma</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>skohö</re>
             <t pos="V">hægkeldidh</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="V">komma på (att göra något)</l>
+         <l pos="V">komma på</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>att göra något</re>
             <t pos="V">hæhtadidh</t>
          </tg>
       </mg>
@@ -30261,10 +30600,11 @@
    </e>
    <e>
       <lg>
-         <l pos="V">vinna över någon (i brottning)</l>
+         <l pos="V">vinna över någon</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>i brottning</re>
             <t pos="V">håajpoestidh</t>
          </tg>
       </mg>
@@ -30316,10 +30656,11 @@
    </e>
    <e>
       <lg>
-         <l pos="V">snabbt röja undan (t.ex. buskar)</l>
+         <l pos="V">snabbt röja undan</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>t.ex. buskar</re>
             <t pos="V">håarkestidh</t>
          </tg>
       </mg>
@@ -30366,10 +30707,11 @@
    </e>
    <e>
       <lg>
-         <l pos="V">få (renhjord) att stanna</l>
+         <l pos="V">få att stanna</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>renhjord</re>
             <t pos="V">håejhkiehtidh</t>
          </tg>
       </mg>
@@ -30411,20 +30753,22 @@
    </e>
    <e>
       <lg>
-         <l pos="V">göra (någon) bedrövad</l>
+         <l pos="V">göra bedrövad</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>någon</re>
             <t pos="V">håjnoedidh</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="V">bli bedrövad (av något)</l>
+         <l pos="V">bli bedrövad</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>av något</re>
             <t pos="V">håjnoehtidh</t>
          </tg>
       </mg>
@@ -30486,10 +30830,11 @@
    </e>
    <e>
       <lg>
-         <l pos="V">sända iväg (hunden för att samla el. driva renar)</l>
+         <l pos="V">sända iväg</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>hunden för att samla el. driva renar</re>
             <t pos="V">håtskoehtidh</t>
          </tg>
       </mg>
@@ -30526,10 +30871,11 @@
    </e>
    <e>
       <lg>
-         <l pos="V">kasta över ända (i brottning)</l>
+         <l pos="V">kasta över ända</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>i brottning</re>
             <t pos="V">hååjpestidh</t>
          </tg>
       </mg>
@@ -30546,10 +30892,11 @@
    </e>
    <e>
       <lg>
-         <l pos="V">(vara snäll och) göra i ordning</l>
+         <l pos="V">göra i ordning</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>vara snäll och</re>
             <t pos="V">hååkestidh</t>
          </tg>
       </mg>
@@ -30571,10 +30918,11 @@
    </e>
    <e>
       <lg>
-         <l pos="V">hugga kvistar (från träd)</l>
+         <l pos="V">hugga kvistar</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>från träd</re>
             <t pos="V">håålesjidh</t>
          </tg>
       </mg>
@@ -30716,10 +31064,11 @@
    </e>
    <e>
       <lg>
-         <l pos="V">plötsligt slå (någon) fördärvad/lemlästa någon</l>
+         <l pos="V">plötsligt slå fördärvad/lemlästa någon</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>någon</re>
             <t pos="V">irhkelidh</t>
          </tg>
       </mg>
@@ -30746,10 +31095,11 @@
    </e>
    <e>
       <lg>
-         <l pos="V">tro på (något)</l>
+         <l pos="V">tro på</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>något</re>
             <t pos="V">jaahkahtidh</t>
          </tg>
       </mg>
@@ -30801,15 +31151,17 @@
    </e>
    <e>
       <lg>
-         <l pos="V">gå av (om skott)</l>
+         <l pos="V">gå av</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>om skott</re>
             <t pos="V">jahtajidh</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sma">
+            <re>om skott</re>
             <t pos="V">jåhtajidh</t>
          </tg>
       </mg>
@@ -30826,10 +31178,11 @@
    </e>
    <e>
       <lg>
-         <l pos="V">hindra (flera gånger)</l>
+         <l pos="V">hindra</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>flera gånger</re>
             <t pos="V">jeeredidh</t>
          </tg>
       </mg>
@@ -30911,25 +31264,28 @@
    </e>
    <e>
       <lg>
-         <l pos="V">dela ut (till flera)</l>
+         <l pos="V">dela ut</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>till flera</re>
             <t pos="V">joekedidh</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="V">spänna på (skidor)</l>
+         <l pos="V">spänna på</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>skidor</re>
             <t pos="V">joksedidh</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sma">
+            <re>skidor</re>
             <t pos="V">jokseridh</t>
          </tg>
       </mg>
@@ -31006,10 +31362,11 @@
    </e>
    <e>
       <lg>
-         <l pos="V">tilbereda (mat)</l>
+         <l pos="V">tilbereda</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>mat</re>
             <t pos="V">jurjiehtidh</t>
          </tg>
       </mg>
@@ -31136,10 +31493,11 @@
    </e>
    <e>
       <lg>
-         <l pos="V">bländas (om ögonen)</l>
+         <l pos="V">bländas</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>om ögonen</re>
             <t pos="V">klovperdidh</t>
          </tg>
       </mg>
@@ -31201,10 +31559,11 @@
    </e>
    <e>
       <lg>
-         <l pos="V">reda ut (en sak)</l>
+         <l pos="V">reda ut</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>en sak</re>
             <t pos="V">kreajnoehtidh</t>
          </tg>
       </mg>
@@ -31231,10 +31590,11 @@
    </e>
    <e>
       <lg>
-         <l pos="V">kräva (lån tillbaka)</l>
+         <l pos="V">kräva</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>lån tillbaka</re>
             <t pos="V">krïbpesjidh</t>
          </tg>
       </mg>
@@ -31306,10 +31666,11 @@
    </e>
    <e>
       <lg>
-         <l pos="V">göra om (ett renmärke) till märket kruehkie</l>
+         <l pos="V">göra om till märket kruehkie</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>ett renmärke</re>
             <t pos="V">krööhkestidh</t>
          </tg>
       </mg>
@@ -31391,20 +31752,22 @@
    </e>
    <e>
       <lg>
-         <l pos="V">åska (en gång)</l>
+         <l pos="V">åska</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>en gång</re>
             <t pos="V">laakestidh</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="V">smitta (om sjukdom)</l>
+         <l pos="V">smitta</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>om sjukdom</re>
             <t pos="V">laanestidh</t>
          </tg>
       </mg>
@@ -31551,20 +31914,22 @@
    </e>
    <e>
       <lg>
-         <l pos="V">slakta (flera djur)</l>
+         <l pos="V">slakta</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>flera djur</re>
             <t pos="V">leekedidh</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="V">lära (någon något)</l>
+         <l pos="V">lära</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>någon något</re>
             <t pos="V">leerehtidh</t>
          </tg>
       </mg>
@@ -31621,15 +31986,17 @@
    </e>
    <e>
       <lg>
-         <l pos="V">blåsa/virvla över väg (om snö)</l>
+         <l pos="V">blåsa/virvla över väg</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>om snö</re>
             <t pos="V">lïegkedidh</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sma">
+            <re>om snö</re>
             <t pos="V">lïegkeridh</t>
          </tg>
       </mg>
@@ -31686,10 +32053,11 @@
    </e>
    <e>
       <lg>
-         <l pos="V">komma sig lös (t.ex. om fisk från kroken)</l>
+         <l pos="V">komma sig lös</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>t.ex. om fisk från kroken</re>
             <t pos="V">loevenidh</t>
          </tg>
       </mg>
@@ -31706,30 +32074,33 @@
    </e>
    <e>
       <lg>
-         <l pos="V">bli lös (om mave)</l>
+         <l pos="V">bli lös</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>om mave</re>
             <t pos="V">loevenidh</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="V">skilja sig (om gifta människor) (sydlig bet.)</l>
+         <l pos="V">skilja sig</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>om gifta människor, sydlig bet.</re>
             <t pos="V">loevenidh</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="V">lära (någon) att läsa</l>
+         <l pos="V">lära att läsa</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>någon</re>
             <t pos="V">lohkehtidh</t>
          </tg>
       </mg>
@@ -31776,15 +32147,17 @@
    </e>
    <e>
       <lg>
-         <l pos="V">ligga och vila (om klöv- och hovdjur)</l>
+         <l pos="V">ligga och vila</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>om klöv- och hovdjur</re>
             <t pos="V">lovvesjidh</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sma">
+            <re>om klöv- och hovdjur</re>
             <t pos="V">lyvvesjidh</t>
          </tg>
       </mg>
@@ -31931,20 +32304,22 @@
    </e>
    <e>
       <lg>
-         <l pos="V">bli (helt) vindstilla</l>
+         <l pos="V">bli vindstilla</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>helt</re>
             <t pos="V">löödtjemidh</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="V">låna ut (flera saker eller till flera personer)</l>
+         <l pos="V">låna ut</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>flera saker eller till flera personer</re>
             <t pos="V">löönedidh</t>
          </tg>
       </mg>
@@ -32006,10 +32381,11 @@
    </e>
    <e>
       <lg>
-         <l pos="V">märka (renkalv)</l>
+         <l pos="V">märka</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>renkalv</re>
             <t pos="V">mïerhkesjidh</t>
          </tg>
       </mg>
@@ -32071,10 +32447,11 @@
    </e>
    <e>
       <lg>
-         <l pos="V">slakta flera stycken (renar)</l>
+         <l pos="V">slakta flera stycken</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>renar</re>
             <t pos="V">mudtedidh</t>
          </tg>
       </mg>
@@ -32161,10 +32538,11 @@
    </e>
    <e>
       <lg>
-         <l pos="V">ge sig (om smärta)</l>
+         <l pos="V">ge sig</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>om smärta</re>
             <t pos="V">måjkoedidh</t>
          </tg>
       </mg>
@@ -32296,40 +32674,44 @@
    </e>
    <e>
       <lg>
-         <l pos="V">(hollå på att) skjuta på</l>
+         <l pos="V">skjuta på</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>hollå på att</re>
             <t pos="V">nehkiehtidh</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="V">(plötsligt) stanna</l>
+         <l pos="V">stanna</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>plötsligt</re>
             <t pos="V">nelhkiehtidh</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="V">jama (om katt)</l>
+         <l pos="V">jama</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>om katt</re>
             <t pos="V">njaavhkehtidh</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="V">avhåra (skinn)</l>
+         <l pos="V">avhåra</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>skinn</re>
             <t pos="V">njilkehtidh</t>
          </tg>
       </mg>
@@ -32711,30 +33093,33 @@
    </e>
    <e>
       <lg>
-         <l pos="V">gräs (om ren))</l>
+         <l pos="V">gräs</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>om ren</re>
             <t pos="V">orpestidh</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="V">vilja el. söka sej tillbaks dit den kom från (såld el. flyttad ren)</l>
+         <l pos="V">vilja el. söka sej tillbaks dit den kom från</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>såld el. flyttad ren</re>
             <t pos="V">ostedidh</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="V">vilja eller söka sej tillbaks dit den kom från (såld el. flyttad ren)</l>
+         <l pos="V">vilja eller söka sej tillbaks dit den kom från</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>såld el. flyttad ren</re>
             <t pos="V">osteridh</t>
          </tg>
       </mg>
@@ -32811,10 +33196,11 @@
    </e>
    <e>
       <lg>
-         <l pos="V">springa iväg (utan lov)</l>
+         <l pos="V">springa iväg</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>utan lov</re>
             <t pos="V">paahkanidh</t>
          </tg>
       </mg>
@@ -32841,15 +33227,17 @@
    </e>
    <e>
       <lg>
-         <l pos="V">bajsa (om barn)</l>
+         <l pos="V">bajsa</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>om barn</re>
             <t pos="V">paakadidh</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sma">
+            <re>om barn</re>
             <t pos="V">paakedidh</t>
          </tg>
       </mg>
@@ -32876,10 +33264,11 @@
    </e>
    <e>
       <lg>
-         <l pos="V">slå fl. ggr (för att driva på körrenar)</l>
+         <l pos="V">slå fl. ggr</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>för att driva på körrenar</re>
             <t pos="V">pïsvesjidh</t>
          </tg>
       </mg>
@@ -32926,10 +33315,11 @@
    </e>
    <e>
       <lg>
-         <l pos="V">visa sej blå (himlen)</l>
+         <l pos="V">visa sej blå</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>himlen</re>
             <t pos="V">plaavedidh</t>
          </tg>
       </mg>
@@ -32961,10 +33351,11 @@
    </e>
    <e>
       <lg>
-         <l pos="V">blinka (t.ex. när solen går upp)</l>
+         <l pos="V">blinka</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>t.ex. när solen går upp</re>
             <t pos="V">pleajhkasjidh</t>
          </tg>
       </mg>
@@ -32981,10 +33372,11 @@
    </e>
    <e>
       <lg>
-         <l pos="V">barka av (växande träd)</l>
+         <l pos="V">barka av</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>växande träd</re>
             <t pos="V">pleakadidh</t>
          </tg>
       </mg>
@@ -33011,10 +33403,11 @@
    </e>
    <e>
       <lg>
-         <l pos="V">beta i lugn och ro (om ren)</l>
+         <l pos="V">beta i lugn och ro</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>om ren</re>
             <t pos="V">pleatnjasjidh</t>
          </tg>
       </mg>
@@ -33071,10 +33464,11 @@
    </e>
    <e>
       <lg>
-         <l pos="V">vara olydig (om barn)</l>
+         <l pos="V">vara olydig</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>om barn</re>
             <t pos="V">plidtiehtidh</t>
          </tg>
       </mg>
@@ -33121,20 +33515,22 @@
    </e>
    <e>
       <lg>
-         <l pos="V">kasta en blick (ut mot något eller tillbaka)</l>
+         <l pos="V">kasta en blick</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>ut mot något eller tillbaka</re>
             <t pos="V">plirkiehtidh</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="V">börja bli öppet (landskap)/bli fläckad</l>
+         <l pos="V">börja bli öppet /bli fläckad</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>landskap</re>
             <t pos="V">plïehkegidh</t>
          </tg>
       </mg>
@@ -33161,20 +33557,22 @@
    </e>
    <e>
       <lg>
-         <l pos="V">få blåmärke (vid skada)</l>
+         <l pos="V">få blåmärke</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>vid skada</re>
             <t pos="V">plïejegidh</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="V">bli naken/få bröstet (om barn)</l>
+         <l pos="V">bli naken/få bröstet</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>om barn</re>
             <t pos="V">plïksjegidh</t>
          </tg>
       </mg>
@@ -33191,20 +33589,22 @@
    </e>
    <e>
       <lg>
-         <l pos="V">buckla till (tex. kaffepanna)</l>
+         <l pos="V">buckla till</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>tex. kaffepanna</re>
             <t pos="V">plogkedidh</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="V">bli tillbucklad (kaffepanna)</l>
+         <l pos="V">bli tillbucklad</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>kaffepanna</re>
             <t pos="V">plogkegidh</t>
          </tg>
       </mg>
@@ -33231,20 +33631,22 @@
    </e>
    <e>
       <lg>
-         <l pos="V">skälla litt (svagt)</l>
+         <l pos="V">skälla litt</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>svagt</re>
             <t pos="V">plopkesjidh</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="V">blandas samman (renhjordar)</l>
+         <l pos="V">blandas samman</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>renhjordar</re>
             <t pos="V">plotnesjidh</t>
          </tg>
       </mg>
@@ -33296,30 +33698,33 @@
    </e>
    <e>
       <lg>
-         <l pos="V">stöta samman (tex. med grund om båt)</l>
+         <l pos="V">stöta samman</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>tex. med grund om båt</re>
             <t pos="V">plåavkestidh</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="V">bli uttröttad (om hund som springer)</l>
+         <l pos="V">bli uttröttad</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>om hund som springer</re>
             <t pos="V">plåehkiehtidh</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="V">stöta emot (t.ex. sten)</l>
+         <l pos="V">stöta emot</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>t.ex. sten</re>
             <t pos="V">plåevhkiehtidh</t>
          </tg>
       </mg>
@@ -33346,10 +33751,11 @@
    </e>
    <e>
       <lg>
-         <l pos="V">svälla (tex. händer i värmen)</l>
+         <l pos="V">svälla</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>tex. händer i värmen</re>
             <t pos="V">povsenidh</t>
          </tg>
       </mg>
@@ -33366,10 +33772,11 @@
    </e>
    <e>
       <lg>
-         <l pos="V">skratta/tjattra (om skogsripa)</l>
+         <l pos="V">skratta/tjattra</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>om skogsripa</re>
             <t pos="V">praahkadidh</t>
          </tg>
       </mg>
@@ -33416,10 +33823,11 @@
    </e>
    <e>
       <lg>
-         <l pos="V">skratta/tjattra (om ripa)</l>
+         <l pos="V">skratta/tjattra</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>om ripa</re>
             <t pos="V">praehkiedidh</t>
          </tg>
       </mg>
@@ -33446,20 +33854,22 @@
    </e>
    <e>
       <lg>
-         <l pos="V">bli uppblåst (magen)</l>
+         <l pos="V">bli uppblåst</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>magen</re>
             <t pos="V">pragkedidh</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="V">bli röd i ansiktet (av vrede el. värme)</l>
+         <l pos="V">bli röd i ansiktet</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>av vrede el. värme</re>
             <t pos="V">prantjegidh</t>
          </tg>
       </mg>
@@ -33476,10 +33886,11 @@
    </e>
    <e>
       <lg>
-         <l pos="V">garva (sydl.)</l>
+         <l pos="V">garva</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>sydl.</re>
             <t pos="V">rïddedestielidh</t>
          </tg>
       </mg>
@@ -33516,10 +33927,11 @@
    </e>
    <e>
       <lg>
-         <l pos="V">ta en genväg/rätta ngn (sydl.)</l>
+         <l pos="V">ta en genväg/rätta ngn</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>sydl.</re>
             <t pos="V">riektiemdidh</t>
          </tg>
       </mg>
@@ -33536,20 +33948,22 @@
    </e>
    <e>
       <lg>
-         <l pos="V">föra renhjord över (tex. älv) (sydl.)</l>
+         <l pos="V">föra renhjord över</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>tex. älv, sydl.</re>
             <t pos="V">restiemdidh</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="V">föra renhjord över (tex. älv)</l>
+         <l pos="V">föra renhjord över</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>tex. älv</re>
             <t pos="V">restiedidh</t>
          </tg>
       </mg>
@@ -33596,10 +34010,11 @@
    </e>
    <e>
       <lg>
-         <l pos="V">hyvla (sydl.)</l>
+         <l pos="V">hyvla</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>sydl.</re>
             <t pos="V">rehkiestidh</t>
          </tg>
       </mg>
@@ -33641,30 +34056,34 @@
    </e>
    <e>
       <lg>
-         <l pos="V">skälla (räv)</l>
+         <l pos="V">skälla</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>räv</re>
             <t pos="V">reavkoehtidh</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="V">rodna (sydl.)</l>
+         <l pos="V">rodna</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>sydl.</re>
             <t pos="V">reapsasjidh</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sma">
+            <re>sydl.</re>
             <t pos="V">reapsanidh</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sma">
+            <re>sydl.</re>
             <t pos="V">ruapsadidh</t>
          </tg>
       </mg>
@@ -33686,10 +34105,11 @@
    </e>
    <e>
       <lg>
-         <l pos="V">födas (sydl.)</l>
+         <l pos="V">födas</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>sydl.</re>
             <t pos="V">reakasidh</t>
          </tg>
       </mg>
@@ -33706,20 +34126,22 @@
    </e>
    <e>
       <lg>
-         <l pos="V">komma över älv med ren (sydl.)</l>
+         <l pos="V">komma över älv med ren</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>sydl.</re>
             <t pos="V">rastamdidh</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="V">dra i håret (sydl.)</l>
+         <l pos="V">dra i håret</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>sydl.</re>
             <t pos="V">raskadidh</t>
          </tg>
       </mg>
@@ -33751,10 +34173,11 @@
    </e>
    <e>
       <lg>
-         <l pos="V">stoja (barn)/ha det trevligt</l>
+         <l pos="V">stoja /ha det trevligt</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>barn</re>
             <t pos="V">rajjadidh</t>
          </tg>
       </mg>
@@ -33781,10 +34204,11 @@
    </e>
    <e>
       <lg>
-         <l pos="V">göra hål i ngt (sydl.)</l>
+         <l pos="V">göra hål i ngt</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>sydl.</re>
             <t pos="V">raejkiemdidh</t>
          </tg>
       </mg>
@@ -33801,10 +34225,11 @@
    </e>
    <e>
       <lg>
-         <l pos="V">ge råd (sydl.)</l>
+         <l pos="V">ge råd</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>sydl.</re>
             <t pos="V">raediestidh</t>
          </tg>
       </mg>
@@ -33936,10 +34361,11 @@
    </e>
    <e>
       <lg>
-         <l pos="V">om kaffepanna) (sydl.)</l>
+         <l pos="V">om kaffepanna)</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>sydl.</re>
             <t pos="V">pråektjiestidh</t>
          </tg>
       </mg>
@@ -33966,10 +34392,11 @@
    </e>
    <e>
       <lg>
-         <l pos="V">bry sej om (sydl.)</l>
+         <l pos="V">bry sej om</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>sydl.</re>
             <t pos="V">præjjadidh</t>
          </tg>
       </mg>
@@ -34041,20 +34468,22 @@
    </e>
    <e>
       <lg>
-         <l pos="V">avvisa (hånfullt)</l>
+         <l pos="V">avvisa</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>hånfullt</re>
             <t pos="V">pruskiehtidh</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="V">hoppa upp och se sej om (sydl.)</l>
+         <l pos="V">hoppa upp och se sej om</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>sydl.</re>
             <t pos="V">prirkiehtidh</t>
          </tg>
       </mg>
@@ -34101,10 +34530,11 @@
    </e>
    <e>
       <lg>
-         <l pos="V">böja sig på mitten (om skida)</l>
+         <l pos="V">böja sig på mitten</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>om skida</re>
             <t pos="V">preanghkanidh</t>
          </tg>
       </mg>
@@ -34236,10 +34666,11 @@
    </e>
    <e>
       <lg>
-         <l pos="V">bli skubbad (tex. fot av skohö)</l>
+         <l pos="V">bli skubbad</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>tex. fot av skohö</re>
             <t pos="V">pruvvelgidh</t>
          </tg>
       </mg>
@@ -34286,10 +34717,11 @@
    </e>
    <e>
       <lg>
-         <l pos="V">få ring runt sej (månen)</l>
+         <l pos="V">få ring runt sej</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>månen</re>
             <t pos="V">raabnesidh</t>
          </tg>
       </mg>
@@ -34401,20 +34833,22 @@
    </e>
    <e>
       <lg>
-         <l pos="V">skrämma (djur)</l>
+         <l pos="V">skrämma</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>djur</re>
             <t pos="V">rabnjestidh</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="V">bli stor och ful (buske)</l>
+         <l pos="V">bli stor och ful</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>buske</re>
             <t pos="V">radtsegidh</t>
          </tg>
       </mg>
@@ -34441,20 +34875,22 @@
    </e>
    <e>
       <lg>
-         <l pos="V">komma en regnskvätt (vintertid)</l>
+         <l pos="V">komma en regnskvätt</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>vintertid</re>
             <t pos="V">ranjkehtidh</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="V">gå upp (sår)</l>
+         <l pos="V">gå upp</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>sår</re>
             <t pos="V">raskehtidh</t>
          </tg>
       </mg>
@@ -34621,10 +35057,11 @@
    </e>
    <e>
       <lg>
-         <l pos="V">stoja (barn)</l>
+         <l pos="V">stoja</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>barn</re>
             <t pos="V">rïdtjesjidh</t>
          </tg>
       </mg>
@@ -34661,20 +35098,22 @@
    </e>
    <e>
       <lg>
-         <l pos="V">knattra (åskknallar efter varandra)</l>
+         <l pos="V">knattra</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>åskknallar efter varandra</re>
             <t pos="V">rïetjedidh</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="V">ringa (bjällra)</l>
+         <l pos="V">ringa</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>bjällra</re>
             <t pos="V">rïgkesjidh</t>
          </tg>
       </mg>
@@ -34756,10 +35195,11 @@
    </e>
    <e>
       <lg>
-         <l pos="V">skada ren (om varg)</l>
+         <l pos="V">skada ren</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>om varg</re>
             <t pos="V">skaaroehtidh</t>
          </tg>
       </mg>
@@ -34791,10 +35231,11 @@
    </e>
    <e>
       <lg>
-         <l pos="V">gjöra sig illa (liten skada som går över)</l>
+         <l pos="V">gjöra sig illa</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>liten skada som går över</re>
             <t pos="V">smaltjaridh</t>
          </tg>
       </mg>
@@ -34856,15 +35297,17 @@
    </e>
    <e>
       <lg>
-         <l pos="V">anmoda (sydl) trösta</l>
+         <l pos="V">anmoda trösta</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>sydl</re>
             <t pos="V">saarnoehtidh</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sma">
+            <re>sydl</re>
             <t pos="V">saarnahtidh</t>
          </tg>
       </mg>
@@ -34946,20 +35389,22 @@
    </e>
    <e>
       <lg>
-         <l pos="V">sitta naken (utan skor och byxor)</l>
+         <l pos="V">sitta naken</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>utan skor och byxor</re>
             <t pos="V">skælhtasjidh</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="V">avge skärande ljud (sax)</l>
+         <l pos="V">avge skärande ljud</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>sax</re>
             <t pos="V">skrakladidh</t>
          </tg>
       </mg>
@@ -34976,20 +35421,22 @@
    </e>
    <e>
       <lg>
-         <l pos="V">ödsla bort tid (sydl.)</l>
+         <l pos="V">ödsla bort tid</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>sydl.</re>
             <t pos="V">skeajtardidh</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="V">gå i skolan (sydl.)</l>
+         <l pos="V">gå i skolan</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>sydl.</re>
             <t pos="V">skavlastidh</t>
          </tg>
       </mg>
@@ -35086,20 +35533,22 @@
    </e>
    <e>
       <lg>
-         <l pos="V">göra tecken (med handen)</l>
+         <l pos="V">göra tecken</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>med handen</re>
             <t pos="V">seavahtidh</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="V">förgrena sej (om björk) (sydl.)</l>
+         <l pos="V">förgrena sej</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>om björk, sydl.</re>
             <t pos="V">searkasidh</t>
          </tg>
       </mg>
@@ -35116,10 +35565,11 @@
    </e>
    <e>
       <lg>
-         <l pos="V">stå (sydl.)</l>
+         <l pos="V">stå</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>sydl.</re>
             <t pos="V">seajsasjidh</t>
          </tg>
       </mg>
@@ -35141,10 +35591,11 @@
    </e>
    <e>
       <lg>
-         <l pos="V">synda (sydl.)</l>
+         <l pos="V">synda</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>sydl.</re>
             <t pos="V">sadtaridh</t>
          </tg>
       </mg>
@@ -35181,25 +35632,28 @@
    </e>
    <e>
       <lg>
-         <l pos="V">hålla på och byta päls (ren)/se luden ut (växtlighet)</l>
+         <l pos="V">hålla på och byta päls /se luden ut</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>ren, växtlighet</re>
             <t pos="V">råffasjidh</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="V">se stor ut/stå ut (om sentråd) (sydl.)</l>
+         <l pos="V">se stor ut/stå ut</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>om sentråd, sydl.</re>
             <t pos="V">råavtjasjidh</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sma">
+            <re>om sentråd, sydl.</re>
             <t pos="V">råavtsasjidh</t>
          </tg>
       </mg>
@@ -35216,40 +35670,44 @@
    </e>
    <e>
       <lg>
-         <l pos="V">skarpa färger/lysa rött (på avstånd)</l>
+         <l pos="V">skarpa färger/lysa rött</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>på avstånd</re>
             <t pos="V">råavsasjidh</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="V">se stor ut/stå ut (om sentråd)</l>
+         <l pos="V">se stor ut/stå ut</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>om sentråd</re>
             <t pos="V">råavhtsasjidh</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="V">ta stor plats (utan att spricka)</l>
+         <l pos="V">ta stor plats</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>utan att spricka</re>
             <t pos="V">råavhnjasjidh</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="V">vara blyg (sydl.)</l>
+         <l pos="V">vara blyg</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>sydl.</re>
             <t pos="V">råangasidh</t>
          </tg>
       </mg>
@@ -35306,40 +35764,44 @@
    </e>
    <e>
       <lg>
-         <l pos="V">skynda sej och barka/garva (sydl.)</l>
+         <l pos="V">skynda sej och barka/garva</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>sydl.</re>
             <t pos="V">rïrredestielidh</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="V">bli skrämd och ge sej iväg (renhjord) (sydl.)</l>
+         <l pos="V">bli skrämd och ge sej iväg</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>renhjord, sydl.</re>
             <t pos="V">ruehkiehtidh</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="V">ständigt skälla (hund) (sydl.)</l>
+         <l pos="V">ständigt skälla</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>hund, sydl.</re>
             <t pos="V">ruejkiestidh</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="V">dofta (av växt)</l>
+         <l pos="V">dofta</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>av växt</re>
             <t pos="V">ruengiestidh</t>
          </tg>
       </mg>
@@ -35366,20 +35828,22 @@
    </e>
    <e>
       <lg>
-         <l pos="V">plötsligt börja (oväder)</l>
+         <l pos="V">plötsligt börja</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>oväder</re>
             <t pos="V">rurhkiethidh</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="V">bli fet (ren)</l>
+         <l pos="V">bli fet</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>ren</re>
             <t pos="V">råeskiehtidh</t>
          </tg>
       </mg>
@@ -35406,10 +35870,11 @@
    </e>
    <e>
       <lg>
-         <l pos="V">göra ont (sydl.)</l>
+         <l pos="V">göra ont</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>sydl.</re>
             <t pos="V">saejrieridh</t>
          </tg>
       </mg>
@@ -35446,10 +35911,11 @@
    </e>
    <e>
       <lg>
-         <l pos="V">längta efter (tex. mat)</l>
+         <l pos="V">längta efter</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>tex. mat</re>
             <t pos="V">siekierdidh</t>
          </tg>
       </mg>
@@ -35541,20 +36007,22 @@
    </e>
    <e>
       <lg>
-         <l pos="V">börja bli mörkt (sydl.)</l>
+         <l pos="V">börja bli mörkt</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>sydl.</re>
             <t pos="V">sjiepkieldidh</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="V">lägga björkris (på kåtan) (sydl.)</l>
+         <l pos="V">lägga björkris</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>på kåtan, sydl.</re>
             <t pos="V">sjieriemdidh</t>
          </tg>
       </mg>
@@ -35571,15 +36039,17 @@
    </e>
    <e>
       <lg>
-         <l pos="V">vara glad (sydl.)</l>
+         <l pos="V">vara glad</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>sydl.</re>
             <t pos="V">sjuesjiedidh</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sma">
+            <re>sydl.</re>
             <t pos="V">sjuesjiehtidh</t>
          </tg>
       </mg>
@@ -35621,30 +36091,33 @@
    </e>
    <e>
       <lg>
-         <l pos="V">stånga (om ren)</l>
+         <l pos="V">stånga</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>om ren</re>
             <t pos="V">skaenjieldidh</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="V">stånga (om ren) (sydl.)</l>
+         <l pos="V">stånga</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>om ren, sydl.</re>
             <t pos="V">skentjieldidh</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="V">ha magont (sydl.)</l>
+         <l pos="V">ha magont</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>sydl.</re>
             <t pos="V">skirmieldidh</t>
          </tg>
       </mg>
@@ -35661,25 +36134,28 @@
    </e>
    <e>
       <lg>
-         <l pos="V">krafsa/vara styv så det låter (skinnföremål)</l>
+         <l pos="V">krafsa/vara styv så det låter</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>skinnföremål</re>
             <t pos="V">skråepiedidh</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="V">vara lös i magen (sydl.)</l>
+         <l pos="V">vara lös i magen</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>sydl.</re>
             <t pos="V">skungkieldidh</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sma">
+            <re>sydl.</re>
             <t pos="V">skungkerdidh</t>
          </tg>
       </mg>
@@ -35706,10 +36182,11 @@
    </e>
    <e>
       <lg>
-         <l pos="V">riva/ta/plocka ned (tält)</l>
+         <l pos="V">riva/ta/plocka ned</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>tält</re>
             <t pos="V">rïjvestidh</t>
          </tg>
       </mg>
@@ -35731,20 +36208,22 @@
    </e>
    <e>
       <lg>
-         <l pos="V">bli barkad (sydl.)</l>
+         <l pos="V">bli barkad</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>sydl.</re>
             <t pos="V">rïrrelgidh</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="V">skynda sej att barka (sydl.)</l>
+         <l pos="V">skynda sej att barka</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>sydl.</re>
             <t pos="V">rïrrestidh</t>
          </tg>
       </mg>
@@ -35801,45 +36280,50 @@
    </e>
    <e>
       <lg>
-         <l pos="V">knarra (i led etc)</l>
+         <l pos="V">knarra</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>i led etc</re>
             <t pos="V">roetskehtidh</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="V">knarra (i foten på ren)</l>
+         <l pos="V">knarra</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>i foten på ren</re>
             <t pos="V">roetskesjidh</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="V">knarra (i foten på ren) (sydl.)</l>
+         <l pos="V">knarra</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>i foten på ren, sydl.</re>
             <t pos="V">roetskestidh</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="V">röka tobakk (sydl.)</l>
+         <l pos="V">röka tobakk</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>sydl.</re>
             <t pos="V">roevhkestidh</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sma">
+            <re>sydl.</re>
             <t pos="V">ryökestidh</t>
          </tg>
       </mg>
@@ -35856,30 +36340,33 @@
    </e>
    <e>
       <lg>
-         <l pos="V">rapa (sydl.)</l>
+         <l pos="V">rapa</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>sydl.</re>
             <t pos="V">rohpestidh</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="V">vika (sydl.)</l>
+         <l pos="V">vika</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>sydl.</re>
             <t pos="V">rohtjeldidh</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="V">snabbt sluka mycket (sydl.)</l>
+         <l pos="V">snabbt sluka mycket</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>sydl.</re>
             <t pos="V">rongkehtidh</t>
          </tg>
       </mg>
@@ -35916,50 +36403,55 @@
    </e>
    <e>
       <lg>
-         <l pos="V">kasta boll (sydl.)</l>
+         <l pos="V">kasta boll</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>sydl.</re>
             <t pos="V">rovrestidh</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="V">knuffa till (sydl.)</l>
+         <l pos="V">knuffa till</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>sydl.</re>
             <t pos="V">rovtestidh</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="V">öppna sej (sydl.)</l>
+         <l pos="V">öppna sej</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>sydl.</re>
             <t pos="V">ryhpesidh</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="V">slita (ur händerna)</l>
+         <l pos="V">slita</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>ur händerna</re>
             <t pos="V">ryjhtestidh</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="V">riva (sydl.)</l>
+         <l pos="V">riva</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>sydl.</re>
             <t pos="V">ryjvesjidh</t>
          </tg>
       </mg>
@@ -36041,15 +36533,17 @@
    </e>
    <e>
       <lg>
-         <l pos="V">vara torra och styva (skinnkläder)</l>
+         <l pos="V">vara torra och styva</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>skinnkläder</re>
             <t pos="V">råadtsedidh</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sma">
+            <re>skinnkläder</re>
             <t pos="V">råedtsedidh</t>
          </tg>
       </mg>
@@ -36101,10 +36595,11 @@
    </e>
    <e>
       <lg>
-         <l pos="V">krulla sej (näver)</l>
+         <l pos="V">krulla sej</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>näver</re>
             <t pos="V">råatjnegidh</t>
          </tg>
       </mg>
@@ -36141,10 +36636,11 @@
    </e>
    <e>
       <lg>
-         <l pos="V">bli torra och styva (skinnkläder)</l>
+         <l pos="V">bli torra och styva</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>skinnkläder</re>
             <t pos="V">råådtsegidh</t>
          </tg>
       </mg>
@@ -36161,10 +36657,11 @@
    </e>
    <e>
       <lg>
-         <l pos="V">vippa (om båt) (sydl.)</l>
+         <l pos="V">vippa</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>om båt, sydl.</re>
             <t pos="V">råågkesidh</t>
          </tg>
       </mg>
@@ -36191,45 +36688,50 @@
    </e>
    <e>
       <lg>
-         <l pos="V">skälla i ett (hund) (sydl.)</l>
+         <l pos="V">skälla i ett</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>hund, sydl.</re>
             <t pos="V">rååjhkesjidh</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="V">valla (sydl.)</l>
+         <l pos="V">valla</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>sydl.</re>
             <t pos="V">rååjnesjidh</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="V">ständigt röra sej oroligt (tex. i sömnen)</l>
+         <l pos="V">ständigt röra sej oroligt</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>tex. i sömnen</re>
             <t pos="V">rååjvedidh</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sma">
+            <re>tex. i sömnen</re>
             <t pos="V">rååjveridh</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="V">träffas (sydl.)</l>
+         <l pos="V">träffas</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>sydl.</re>
             <t pos="V">rååkedidh</t>
          </tg>
       </mg>
@@ -36306,10 +36808,11 @@
    </e>
    <e>
       <lg>
-         <l pos="V">sända (bort) (sydl.)</l>
+         <l pos="V">sända</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>bort, sydl.</re>
             <t pos="V">saadtesidh</t>
          </tg>
       </mg>
@@ -36336,10 +36839,11 @@
    </e>
    <e>
       <lg>
-         <l pos="V">sprida sej (renhjord)</l>
+         <l pos="V">sprida sej</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>renhjord</re>
             <t pos="V">saajenidh</t>
          </tg>
       </mg>
@@ -36386,10 +36890,11 @@
    </e>
    <e>
       <lg>
-         <l pos="V">ordna upp (sydl.)</l>
+         <l pos="V">ordna upp</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>sydl.</re>
             <t pos="V">salkehtidh</t>
          </tg>
       </mg>
@@ -36416,10 +36921,11 @@
    </e>
    <e>
       <lg>
-         <l pos="V">fråga och fråga om allt möjligt (sydl.)</l>
+         <l pos="V">fråga och fråga om allt möjligt</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>sydl.</re>
             <t pos="V">sarhkesjidh</t>
          </tg>
       </mg>
@@ -36436,10 +36942,11 @@
    </e>
    <e>
       <lg>
-         <l pos="V">halta (djur)</l>
+         <l pos="V">halta</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>djur</re>
             <t pos="V">satskehtidh</t>
          </tg>
       </mg>
@@ -36461,10 +36968,11 @@
    </e>
    <e>
       <lg>
-         <l pos="V">slapp (sydl) vara lat</l>
+         <l pos="V">slapp vara lat</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>sydl</re>
             <t pos="V">savsesjidh</t>
          </tg>
       </mg>
@@ -36511,10 +37019,11 @@
    </e>
    <e>
       <lg>
-         <l pos="V">klia (sydl.)</l>
+         <l pos="V">klia</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>sydl.</re>
             <t pos="V">sikngeridh</t>
          </tg>
       </mg>
@@ -36541,15 +37050,17 @@
    </e>
    <e>
       <lg>
-         <l pos="V">smälta snö (sydl.)</l>
+         <l pos="V">smälta snö</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>sydl.</re>
             <t pos="V">sïektedidh</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sma">
+            <re>sydl.</re>
             <t pos="V">sïekteridh</t>
          </tg>
       </mg>
@@ -36631,10 +37142,11 @@
    </e>
    <e>
       <lg>
-         <l pos="V">blanda (sydl.)</l>
+         <l pos="V">blanda</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>sydl.</re>
             <t pos="V">sjeevehtidh</t>
          </tg>
       </mg>
@@ -36651,10 +37163,11 @@
    </e>
    <e>
       <lg>
-         <l pos="V">småsvära (sydl.)</l>
+         <l pos="V">småsvära</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>sydl.</re>
             <t pos="V">sjïbbedidh</t>
          </tg>
       </mg>
@@ -36671,10 +37184,11 @@
    </e>
    <e>
       <lg>
-         <l pos="V">låta renen växa (sydl.)</l>
+         <l pos="V">låta renen växa</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>sydl.</re>
             <t pos="V">sjïdtedridh</t>
          </tg>
       </mg>
@@ -36756,10 +37270,11 @@
    </e>
    <e>
       <lg>
-         <l pos="V">ge bröllopsgåva till (sydl.)</l>
+         <l pos="V">ge bröllopsgåva till</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>sydl.</re>
             <t pos="V">sjïeleridh</t>
          </tg>
       </mg>
@@ -36831,10 +37346,11 @@
    </e>
    <e>
       <lg>
-         <l pos="V">sträcka sej (sydl.)</l>
+         <l pos="V">sträcka sej</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>sydl.</re>
             <t pos="V">sjyöjkedidh</t>
          </tg>
       </mg>
@@ -36871,10 +37387,11 @@
    </e>
    <e>
       <lg>
-         <l pos="V">springa omkring och jaga allt möjligt (unghund)</l>
+         <l pos="V">springa omkring och jaga allt möjligt</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>unghund</re>
             <t pos="V">skaajveldidh</t>
          </tg>
       </mg>
@@ -36921,10 +37438,11 @@
    </e>
    <e>
       <lg>
-         <l pos="V">minnas (sydl.)</l>
+         <l pos="V">minnas</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>sydl.</re>
             <t pos="V">skeajesidh</t>
          </tg>
       </mg>
@@ -36986,10 +37504,11 @@
    </e>
    <e>
       <lg>
-         <l pos="V">göra kåtan fri från rök (sydl.)</l>
+         <l pos="V">göra kåtan fri från rök</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>sydl.</re>
             <t pos="V">skïerkedidh</t>
          </tg>
       </mg>
@@ -37036,10 +37555,11 @@
    </e>
    <e>
       <lg>
-         <l pos="V">gå vilse (sydl.)</l>
+         <l pos="V">gå vilse</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>sydl.</re>
             <t pos="V">skompeldidh</t>
          </tg>
       </mg>
@@ -37121,10 +37641,11 @@
    </e>
    <e>
       <lg>
-         <l pos="V">skriva fort (sydl.)</l>
+         <l pos="V">skriva fort</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>sydl.</re>
             <t pos="V">skreedkelidh</t>
          </tg>
       </mg>
@@ -37166,10 +37687,11 @@
    </e>
    <e>
       <lg>
-         <l pos="V">ge nattvarden (präst) (sydl.)</l>
+         <l pos="V">ge nattvarden</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>präst, sydl.</re>
             <t pos="V">skylledidh</t>
          </tg>
       </mg>
@@ -37201,10 +37723,11 @@
    </e>
    <e>
       <lg>
-         <l pos="V">tjäna (som piga etc.)</l>
+         <l pos="V">tjäna</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>som piga etc.</re>
             <t pos="V">tjeanadidh</t>
          </tg>
       </mg>
@@ -37221,10 +37744,11 @@
    </e>
    <e>
       <lg>
-         <l pos="V">sitta på huk (sydl.)</l>
+         <l pos="V">sitta på huk</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>sydl.</re>
             <t pos="V">tjanhtasjidh</t>
          </tg>
       </mg>
@@ -37256,10 +37780,11 @@
    </e>
    <e>
       <lg>
-         <l pos="V">uppdaga (sydl.)</l>
+         <l pos="V">uppdaga</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>sydl.</re>
             <t pos="V">tjalmahtidh</t>
          </tg>
       </mg>
@@ -37296,10 +37821,11 @@
    </e>
    <e>
       <lg>
-         <l pos="V">synas (om ngt svart)</l>
+         <l pos="V">synas</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>om ngt svart</re>
             <t pos="V">tjaapasjidh</t>
          </tg>
       </mg>
@@ -37326,10 +37852,11 @@
    </e>
    <e>
       <lg>
-         <l pos="V">surna (om mjölk)</l>
+         <l pos="V">surna</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>om mjölk</re>
             <t pos="V">såvranidh</t>
          </tg>
       </mg>
@@ -37371,15 +37898,17 @@
    </e>
    <e>
       <lg>
-         <l pos="V">sväva (om fågel)</l>
+         <l pos="V">sväva</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>om fågel</re>
             <t pos="V">såajtoelidh</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sma">
+            <re>om fågel</re>
             <t pos="V">såajtalidh</t>
          </tg>
       </mg>
@@ -37396,10 +37925,11 @@
    </e>
    <e>
       <lg>
-         <l pos="V">röka litt (om kött)</l>
+         <l pos="V">röka litt</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>om kött</re>
             <t pos="V">såajtoedidh</t>
          </tg>
       </mg>
@@ -37456,10 +37986,11 @@
    </e>
    <e>
       <lg>
-         <l pos="V">vara nervös (sydl.)</l>
+         <l pos="V">vara nervös</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>sydl.</re>
             <t pos="V">sveadadidh</t>
          </tg>
       </mg>
@@ -37496,10 +38027,11 @@
    </e>
    <e>
       <lg>
-         <l pos="V">bli sval (efter att solen gått ner)</l>
+         <l pos="V">bli sval</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>efter att solen gått ner</re>
             <t pos="V">svaalnoedidh</t>
          </tg>
       </mg>
@@ -37516,40 +38048,44 @@
    </e>
    <e>
       <lg>
-         <l pos="V">skälla (om person)</l>
+         <l pos="V">skälla</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>om person</re>
             <t pos="V">ståaloehtidh</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="V">överge sin nyfödda kalv (vaja)</l>
+         <l pos="V">överge sin nyfödda kalv</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>vaja</re>
             <t pos="V">suahpastidh</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="V">ligga el. sitta med fötterna utsträckta (sydl.)</l>
+         <l pos="V">ligga el. sitta med fötterna utsträckta</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>sydl.</re>
             <t pos="V">stæhtjasjidh</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="V">bli klöst av katt/få rispor (tex. av grenar) (sydl.)</l>
+         <l pos="V">bli klöst av katt/få rispor</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>tex. av grenar, sydl.</re>
             <t pos="V">straanjalgidh</t>
          </tg>
       </mg>
@@ -37576,30 +38112,33 @@
    </e>
    <e>
       <lg>
-         <l pos="V">macka (sten som studsar på vattnet)</l>
+         <l pos="V">macka</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>sten som studsar på vattnet</re>
             <t pos="V">spædtjasidh</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="V">börja bli blekgul (skohö)</l>
+         <l pos="V">börja bli blekgul</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>skohö</re>
             <t pos="V">spuallalgidh</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="V">spela musikinstrumet (sydl) klyva ett föremål</l>
+         <l pos="V">spela musikinstrumet klyva ett föremål</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>sydl</re>
             <t pos="V">spealadidh</t>
          </tg>
       </mg>
@@ -37661,10 +38200,11 @@
    </e>
    <e>
       <lg>
-         <l pos="V">sticka högt upp (om flälltopp)</l>
+         <l pos="V">sticka högt upp</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>om flälltopp</re>
             <t pos="V">snjålhtasjidh</t>
          </tg>
       </mg>
@@ -37691,10 +38231,11 @@
    </e>
    <e>
       <lg>
-         <l pos="V">snyfta (sydl.)</l>
+         <l pos="V">snyfta</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>sydl.</re>
             <t pos="V">snahkadidh</t>
          </tg>
       </mg>
@@ -37731,20 +38272,22 @@
    </e>
    <e>
       <lg>
-         <l pos="V">utsliten (om sak)</l>
+         <l pos="V">utsliten</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>om sak</re>
             <t pos="V">slæjhtanidh</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="V">vara svagt (kaffe)</l>
+         <l pos="V">vara svagt</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>kaffe</re>
             <t pos="V">sleatjadidh</t>
          </tg>
       </mg>
@@ -37826,10 +38369,11 @@
    </e>
    <e>
       <lg>
-         <l pos="V">stiga upp/öka i antal (om ren)</l>
+         <l pos="V">stiga upp/öka i antal</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>om ren</re>
             <t pos="V">tjuedtjielidh</t>
          </tg>
       </mg>
@@ -37856,10 +38400,11 @@
    </e>
    <e>
       <lg>
-         <l pos="V">styra renen i bestämd riktning (sydl.)</l>
+         <l pos="V">styra renen i bestämd riktning</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>sydl.</re>
             <t pos="V">tjevtsiestidh</t>
          </tg>
       </mg>
@@ -37896,10 +38441,11 @@
    </e>
    <e>
       <lg>
-         <l pos="V">slå hund (sydl.)</l>
+         <l pos="V">slå hund</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>sydl.</re>
             <t pos="V">tjaesjmierdidh</t>
          </tg>
       </mg>
@@ -37936,30 +38482,33 @@
    </e>
    <e>
       <lg>
-         <l pos="V">gunga (vagga)/vyssja i famnen</l>
+         <l pos="V">gunga /vyssja i famnen</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>vagga</re>
             <t pos="V">suvtiehtidh</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="V">kalva (om vaja)</l>
+         <l pos="V">kalva</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>om vaja</re>
             <t pos="V">suehpiedidh</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="V">försvinna (om solen)</l>
+         <l pos="V">försvinna</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>om solen</re>
             <t pos="V">suejielidh</t>
          </tg>
       </mg>
@@ -37991,10 +38540,11 @@
    </e>
    <e>
       <lg>
-         <l pos="V">göra större (sydl.)</l>
+         <l pos="V">göra större</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>sydl.</re>
             <t pos="V">stueriemdidh</t>
          </tg>
       </mg>
@@ -38011,10 +38561,11 @@
    </e>
    <e>
       <lg>
-         <l pos="V">sörpla i sej varm dryck (tex. kaffe)</l>
+         <l pos="V">sörpla i sej varm dryck</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>tex. kaffe</re>
             <t pos="V">strupkiehtidh</t>
          </tg>
       </mg>
@@ -38036,10 +38587,11 @@
    </e>
    <e>
       <lg>
-         <l pos="V">rätta (sydl.)</l>
+         <l pos="V">rätta</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>sydl.</re>
             <t pos="V">staeriemdidh</t>
          </tg>
       </mg>
@@ -38076,30 +38628,33 @@
    </e>
    <e>
       <lg>
-         <l pos="V">hicka (sydl.)</l>
+         <l pos="V">hicka</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>sydl.</re>
             <t pos="V">snuhkiestidh</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="V">vara brunstig (om bock)</l>
+         <l pos="V">vara brunstig</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>om bock</re>
             <t pos="V">snjerviestidh</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="V">bli tunn skare (sydl.)</l>
+         <l pos="V">bli tunn skare</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>sydl.</re>
             <t pos="V">snjaefiestidh</t>
          </tg>
       </mg>
@@ -38126,10 +38681,11 @@
    </e>
    <e>
       <lg>
-         <l pos="V">smaka salt (sydl.)</l>
+         <l pos="V">smaka salt</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>sydl.</re>
             <t pos="V">smielnjiedidh</t>
          </tg>
       </mg>
@@ -38176,10 +38732,11 @@
    </e>
    <e>
       <lg>
-         <l pos="V">smaka (sydl.)</l>
+         <l pos="V">smaka</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>sydl.</re>
             <t pos="V">smaehkiedidh</t>
          </tg>
       </mg>
@@ -38291,20 +38848,22 @@
    </e>
    <e>
       <lg>
-         <l pos="V">vara svagt (om kaffe) (sydl.)</l>
+         <l pos="V">vara svagt</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>om kaffe, sydl.</re>
             <t pos="V">sleatsedidh</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="V">bli mjuk (om skinnföremål)</l>
+         <l pos="V">bli mjuk</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>om skinnföremål</re>
             <t pos="V">slibnjegidh</t>
          </tg>
       </mg>
@@ -38431,10 +38990,11 @@
    </e>
    <e>
       <lg>
-         <l pos="V">hosta pga. rök (sydl.)</l>
+         <l pos="V">hosta pga. rök</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>sydl.</re>
             <t pos="V">snahkestidh</t>
          </tg>
       </mg>
@@ -38506,10 +39066,11 @@
    </e>
    <e>
       <lg>
-         <l pos="V">nappa en gång (fisk)</l>
+         <l pos="V">nappa en gång</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>fisk</re>
             <t pos="V">snjåarestidh</t>
          </tg>
       </mg>
@@ -38526,10 +39087,11 @@
    </e>
    <e>
       <lg>
-         <l pos="V">flamma högt (om eld)</l>
+         <l pos="V">flamma högt</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>om eld</re>
             <t pos="V">snjååpedidh</t>
          </tg>
       </mg>
@@ -38556,10 +39118,11 @@
    </e>
    <e>
       <lg>
-         <l pos="V">sätta upp snaror (sydl.)</l>
+         <l pos="V">sätta upp snaror</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>sydl.</re>
             <t pos="V">snorredidh</t>
          </tg>
       </mg>
@@ -38616,10 +39179,11 @@
    </e>
    <e>
       <lg>
-         <l pos="V">försvinna (solen)</l>
+         <l pos="V">försvinna</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>solen</re>
             <t pos="V">soejelidh</t>
          </tg>
       </mg>
@@ -38641,15 +39205,17 @@
    </e>
    <e>
       <lg>
-         <l pos="V">dåsig/bli utmattad (renhjord)</l>
+         <l pos="V">dåsig/bli utmattad</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>renhjord</re>
             <t pos="V">soejjegidh</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sma">
+            <re>renhjord</re>
             <t pos="V">såajjegidh</t>
          </tg>
       </mg>
@@ -38666,10 +39232,11 @@
    </e>
    <e>
       <lg>
-         <l pos="V">röra sej långsamt (sydl.)</l>
+         <l pos="V">röra sej långsamt</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>sydl.</re>
             <t pos="V">soejmenidh</t>
          </tg>
       </mg>
@@ -38696,10 +39263,11 @@
    </e>
    <e>
       <lg>
-         <l pos="V">kött)/bli full av rök (kåta)</l>
+         <l pos="V">kött)/bli full av rök</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>kåta</re>
             <t pos="V">soevestidh</t>
          </tg>
       </mg>
@@ -38766,20 +39334,22 @@
    </e>
    <e>
       <lg>
-         <l pos="V">skaka av sej (tex snö)</l>
+         <l pos="V">skaka av sej</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>tex snö</re>
             <t pos="V">sovnjedidh</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="V">växa igen (om stig) (sydl.)</l>
+         <l pos="V">växa igen</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>om stig, sydl.</re>
             <t pos="V">sovvehtjidh</t>
          </tg>
       </mg>
@@ -38796,10 +39366,11 @@
    </e>
    <e>
       <lg>
-         <l pos="V">anställa (arbetshjälp)/vara i knipa</l>
+         <l pos="V">anställa /vara i knipa</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>arbetshjälp</re>
             <t pos="V">spaajhkestidh</t>
          </tg>
       </mg>
@@ -38911,10 +39482,11 @@
    </e>
    <e>
       <lg>
-         <l pos="V">vingla (sydl.)</l>
+         <l pos="V">vingla</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>sydl.</re>
             <t pos="V">stompelidh</t>
          </tg>
       </mg>
@@ -38961,10 +39533,11 @@
    </e>
    <e>
       <lg>
-         <l pos="V">vilja bita (om hund)</l>
+         <l pos="V">vilja bita</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>om hund</re>
             <t pos="V">stöölestidh</t>
          </tg>
       </mg>
@@ -38991,10 +39564,11 @@
    </e>
    <e>
       <lg>
-         <l pos="V">röra sej (sydl.)</l>
+         <l pos="V">röra sej</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>sydl.</re>
             <t pos="V">svatjkesidh</t>
          </tg>
       </mg>
@@ -39011,10 +39585,11 @@
    </e>
    <e>
       <lg>
-         <l pos="V">piska ngn (sydl.)</l>
+         <l pos="V">piska ngn</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>sydl.</re>
             <t pos="V">svinhtestidh</t>
          </tg>
       </mg>
@@ -39051,10 +39626,11 @@
    </e>
    <e>
       <lg>
-         <l pos="V">svaja litt i vinden (träd)</l>
+         <l pos="V">svaja litt i vinden</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>träd</re>
             <t pos="V">svåjkesjidh</t>
          </tg>
       </mg>
@@ -39116,10 +39692,11 @@
    </e>
    <e>
       <lg>
-         <l pos="V">flyga (fågel)</l>
+         <l pos="V">flyga</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>fågel</re>
             <t pos="V">sååjvelidh</t>
          </tg>
       </mg>
@@ -39146,10 +39723,11 @@
    </e>
    <e>
       <lg>
-         <l pos="V">surra (om insekten broms) (sydl.)</l>
+         <l pos="V">surra</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>om insekten broms, sydl.</re>
             <t pos="V">såårredidh</t>
          </tg>
       </mg>
@@ -39216,10 +39794,11 @@
    </e>
    <e>
       <lg>
-         <l pos="V">springa fort (så fort som ett djur)</l>
+         <l pos="V">springa fort</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>så fort som ett djur</re>
             <t pos="V">tjaarhvehtidh</t>
          </tg>
       </mg>
@@ -39236,30 +39815,33 @@
    </e>
    <e>
       <lg>
-         <l pos="V">visa (sydl.)</l>
+         <l pos="V">visa</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>sydl.</re>
             <t pos="V">tjaatsestidh</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="V">dyka flera ggr (sydl.)</l>
+         <l pos="V">dyka flera ggr</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>sydl.</re>
             <t pos="V">tjadmedidh</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="V">gå in (sydl.)</l>
+         <l pos="V">gå in</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>sydl.</re>
             <t pos="V">tjagkedidh</t>
          </tg>
       </mg>
@@ -39296,10 +39878,11 @@
    </e>
    <e>
       <lg>
-         <l pos="V">slå en gång med knytnäven (sydl.)</l>
+         <l pos="V">slå en gång med knytnäven</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>sydl.</re>
             <t pos="V">tjarmeridh</t>
          </tg>
       </mg>
@@ -39471,10 +40054,11 @@
    </e>
    <e>
       <lg>
-         <l pos="V">slarva (sydl.)</l>
+         <l pos="V">slarva</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>sydl.</re>
             <t pos="V">tjïlterdidh</t>
          </tg>
       </mg>
@@ -39521,10 +40105,11 @@
    </e>
    <e>
       <lg>
-         <l pos="V">springa ifrån el. vara plågad av mygg (om ren)</l>
+         <l pos="V">springa ifrån el. vara plågad av mygg</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>om ren</re>
             <t pos="V">tjoejhkestidh</t>
          </tg>
       </mg>
@@ -39561,20 +40146,22 @@
    </e>
    <e>
       <lg>
-         <l pos="V">slåss (om ren)</l>
+         <l pos="V">slåss</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>om ren</re>
             <t pos="V">tjoelestidh</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="V">knyta ihop (sydl.)</l>
+         <l pos="V">knyta ihop</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>sydl.</re>
             <t pos="V">tjoelmelidh</t>
          </tg>
       </mg>
@@ -39636,50 +40223,55 @@
    </e>
    <e>
       <lg>
-         <l pos="V">bli kammat (skohö)</l>
+         <l pos="V">bli kammat</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>skohö</re>
             <t pos="V">tjohkelgidh</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="V">galoppera (körren) (sydl.)</l>
+         <l pos="V">galoppera</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>körren, sydl.</re>
             <t pos="V">tjokngesjidh</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="V">vara orolig under mjölkning (vaja) (sydl.)</l>
+         <l pos="V">vara orolig under mjölkning</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>vaja, sydl.</re>
             <t pos="V">tjoktjesjidh</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="V">feja hornen (ren)</l>
+         <l pos="V">feja hornen</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>ren</re>
             <t pos="V">tjolledidh</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="V">hoppa (djur)</l>
+         <l pos="V">hoppa</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>djur</re>
             <t pos="V">tjorkehtidh</t>
          </tg>
       </mg>
@@ -39716,10 +40308,11 @@
    </e>
    <e>
       <lg>
-         <l pos="V">skvalpa (om vatten i sko)</l>
+         <l pos="V">skvalpa</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>om vatten i sko</re>
             <t pos="V">tjoskehtidh</t>
          </tg>
       </mg>
@@ -40811,10 +41404,11 @@
    </e>
    <e>
       <lg>
-         <l pos="V">få (renflock) at simma</l>
+         <l pos="V">få at simma</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>renflock</re>
             <t pos="V">voejehtidh</t>
          </tg>
       </mg>
@@ -40881,10 +41475,11 @@
    </e>
    <e>
       <lg>
-         <l pos="V">besinna sig (efter ilska)</l>
+         <l pos="V">besinna sig</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>efter ilska</re>
             <t pos="V">voeredidh</t>
          </tg>
       </mg>
@@ -40931,15 +41526,17 @@
    </e>
    <e>
       <lg>
-         <l pos="V">gå ner (om solen)</l>
+         <l pos="V">gå ner</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>om solen</re>
             <t pos="V">voetjedidh</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sma">
+            <re>om solen</re>
             <t pos="V">voetjeridh</t>
          </tg>
       </mg>
