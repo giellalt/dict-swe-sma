@@ -6337,7 +6337,7 @@
       </mg>
       <mg>
          <tg xml:lang="sma" tw_id="slåss 25adb8b5-3807-4fce-8487-ab21fc359663">
-            <t pos="V">bååhrkedidh</t>
+            <t pos="V">båårhkedidh</t>
          </tg>
       </mg>
    </e>
@@ -6802,7 +6802,7 @@
       </mg>
       <mg>
          <tg xml:lang="sma" tw_id="meta 0034e6da-296f-481a-9274-e1ad5229a5ae">
-            <t pos="V">hååntjldidh</t>
+            <t pos="V">hååntjeldidh</t>
          </tg>
       </mg>
       <mg>
@@ -27224,7 +27224,7 @@
       </lg>
       <mg>
          <tg xml:lang="sma" tw_id="fläcka 0cbe16d3-f5ac-4ecd-b94d-f783124704bf">
-            <t pos="V">flïhkehtidh</t>
+            <t pos="V">flïehkehtidh</t>
          </tg>
       </mg>
    </e>
@@ -28515,7 +28515,7 @@
       <mg>
          <tg xml:lang="sma" tw_id="hålla på fe3beef0-2fcd-4240-b2de-cc43a0573b9a">
             <re>med något</re>
-            <t pos="V">gïehtlidh</t>
+            <t pos="V">gïehtelidh</t>
          </tg>
       </mg>
    </e>
@@ -32354,7 +32354,7 @@
       </mg>
       <mg>
          <tg xml:lang="sma" tw_id="växla 615e6460-8cef-4290-a488-91605dfba5f0">
-            <t pos="V">låtnoehdidh</t>
+            <t pos="V">låtnoehtidh</t>
          </tg>
       </mg>
    </e>
@@ -35832,7 +35832,7 @@
       <mg>
          <tg xml:lang="sma" tw_id="plötsligt börja f644f9e5-1b9f-4bcd-88c0-3da777d9164a">
             <re>oväder</re>
-            <t pos="V">rurhkiethidh</t>
+            <t pos="V">rurhkiehtidh</t>
          </tg>
       </mg>
    </e>
@@ -37173,22 +37173,16 @@
    </e>
    <e>
       <lg>
-         <l pos="V">hålla på och växa/låta renen växa</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma" tw_id="hålla på och växa/låta renen växa bbad9fd9-283a-4a30-8b34-365b7ba303ae">
-            <t pos="V">sjïdtedidh</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">låta renen växa</l>
+         <l pos="V">växa</l>
       </lg>
       <mg>
          <tg xml:lang="sma" tw_id="låta renen växa f0b1b97c-a64c-44e6-abb6-7f0a6b3e8e96">
-            <re>sydl.</re>
-            <t pos="V">sjïdtedridh</t>
+            <re>låta renen (sydl.)</re>
+            <t pos="V">sjïdteridh</t>
+         </tg>
+         <tg xml:lang="sma" tw_id="hålla på och växa/låta renen växa bbad9fd9-283a-4a30-8b34-365b7ba303ae">
+            <re>låta renen</re>
+            <t pos="V">sjïdtedidh</t>
          </tg>
       </mg>
    </e>
@@ -40862,7 +40856,7 @@
       </lg>
       <mg>
          <tg xml:lang="sma" tw_id="gå omkring f79a4a2b-7fd4-4ef8-977b-7ca5c15d6351">
-            <t pos="V">vaadsehtjidh</t>
+            <t pos="V">vaadtsehtjadtedh</t>
          </tg>
       </mg>
    </e>
@@ -41072,12 +41066,12 @@
       </lg>
       <mg>
          <tg xml:lang="sma" tw_id="gå med 772949b2-3d82-42e9-b4e4-b0cca7843cd8">
-            <t pos="V">vaedstiehtidh</t>
+            <t pos="V">vaedtsiehtidh</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sma" tw_id="gå med eb6c046d-0c5f-48bc-8bb6-7dc4f73ccd53">
-            <t pos="V">vaedstielidh</t>
+            <t pos="V">vaedtstielidh</t>
          </tg>
       </mg>
    </e>
@@ -41087,12 +41081,12 @@
       </lg>
       <mg>
          <tg xml:lang="sma" tw_id="leda b4becc2c-0cf3-4acb-9c5e-c07026ae5537">
-            <t pos="V">vaedstiehtidh</t>
+            <t pos="V">vaedtsiehtidh</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sma" tw_id="leda a08f4ce4-49e4-4cd9-86d3-11e9155968e4">
-            <t pos="V">vaedstielidh</t>
+            <t pos="V">vaedtsielidh</t>
          </tg>
       </mg>
    </e>
@@ -41102,7 +41096,7 @@
       </lg>
       <mg>
          <tg xml:lang="sma" tw_id="gå lite 1251bb5a-56e6-4410-8cac-ebd85efc5952">
-            <t pos="V">vaedstiestidh</t>
+            <t pos="V">vaedtsiestidh</t>
          </tg>
       </mg>
    </e>
