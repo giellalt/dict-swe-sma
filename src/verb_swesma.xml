@@ -607,7 +607,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e note="checked">
       <lg>
          <l pos="V">driva</l>
       </lg>
@@ -618,21 +618,24 @@
       </mg>
       <mg>
          <tg xml:lang="sma" tw_id="driva fd7c183a-9e7b-4bfa-824f-34f57348f059">
-            <t pos="V">eadjoestidh</t>
+            <t pos="V">eadtjoestidh</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sma" tw_id="driva 22d6a0c2-3fcc-46fc-8b3b-4afebb83c798">
+         	<re>över älv el. genom passage. (sydlig)</re>
             <t pos="V">restiemdidh</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sma" tw_id="driva 139071b3-b55d-4538-8418-b52f3b8e7f84">
+            <re>över älv el. genom passage</re>
             <t pos="V">restiedidh</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sma" tw_id="driva 6289d776-414b-4b66-af1a-e252e3665700">
+            <re>om ren eller djur</re>
             <t pos="V">vuejiehtidh</t>
          </tg>
       </mg>
@@ -1507,13 +1510,13 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e note="checked">
       <lg>
          <l pos="V">hålla ut i hårt väder</l>
       </lg>
       <mg>
          <tg xml:lang="sma" tw_id="hålla ut i hårt väder 6d4153c6-fe9b-4e09-9e35-40b17a0dcfbc">
-            <t pos="V">duetedh</t>
+            <t pos="V">duedtedh</t>
          </tg>
       </mg>
    </e>
@@ -3598,13 +3601,14 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e note="checked">
       <lg>
          <l pos="V">låta läder bli bränt och förstört</l>
       </lg>
       <mg>
          <tg xml:lang="sma" tw_id="låta läder bli bränt och förstört 0b9babf1-172f-4db2-aea0-9dccd172242a">
-            <t pos="V">råassjodehtedh</t>
+            <re>kan vara om läder el. annat som kläder ect. </re>
+            <t pos="V">råassjoedehtedh</t>
          </tg>
       </mg>
    </e>
@@ -4358,7 +4362,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e note="checked">
       <lg>
          <l pos="V">kasta</l>
       </lg>
@@ -4379,7 +4383,7 @@
       </mg>
       <mg>
          <tg xml:lang="sma" tw_id="kasta 91bdcfd4-b18b-4936-8a6c-774398dce2a4">
-            <t pos="V">heevtedh</t>
+            <t pos="V">heevedh</t>
          </tg>
       </mg>
       <mg>
@@ -6791,7 +6795,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e note="checked">
       <lg>
          <l pos="V">meta</l>
       </lg>
@@ -6807,7 +6811,7 @@
       </mg>
       <mg>
          <tg xml:lang="sma" tw_id="meta ac33d1b1-b5ba-4990-b8ef-81e358222271">
-            <t pos="V">hååntjlidh</t>
+            <t pos="V">hååntjelidh</t>
          </tg>
       </mg>
       <mg>
@@ -8056,13 +8060,13 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e note="checked">
       <lg>
-         <l pos="V">vara borta och ha skoj</l>
+         <l pos="V">dansa och hoppa</l>
       </lg>
       <mg>
          <tg xml:lang="sma" tw_id="vara borta och ha skoj 446377e0-63ee-4bcf-b74f-b56dfb7c7f22">
-            <t pos="V">stængkodh</t>
+            <t pos="V">stænghkodh</t>
          </tg>
       </mg>
    </e>
@@ -10660,13 +10664,13 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e note="checked">
       <lg>
          <l pos="V">bajsa här och där</l>
       </lg>
       <mg>
          <tg xml:lang="sma" tw_id="bajsa här och där 8c39f0c7-457f-43b0-b8b7-31e4e1a057b5">
-            <t pos="V">bajhkedtjadtedh</t>
+            <t pos="V">bajhkehtjadtedh</t>
          </tg>
       </mg>
    </e>
@@ -11420,7 +11424,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e note="checked">
       <lg>
          <l pos="V">bli vintrigt</l>
       </lg>
@@ -11431,7 +11435,7 @@
       </mg>
       <mg>
          <tg xml:lang="sma" tw_id="bli vintrigt e8ab9d4a-4d95-4367-b06f-b7cbfdca3084">
-            <t pos="V">daelvadovvedh</t>
+            <t pos="V">daelviedovvedh</t>
          </tg>
       </mg>
    </e>
@@ -13601,9 +13605,9 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e note="checked">
       <lg>
-         <l pos="V">äta godbitarna</l>
+         <l pos="V">äta godbitar</l>
       </lg>
       <mg>
          <tg xml:lang="sma" tw_id="äta godbitarna 4462817a-b79d-49a7-96a8-7f1176c969ca">
@@ -13612,7 +13616,7 @@
       </mg>
       <mg>
          <tg xml:lang="sma" tw_id="äta godbitarna 679608cb-7e9c-4617-9820-e29504e2e496">
-            <t pos="V">hyörhkesdalledh</t>
+            <t pos="V">hyörhkestalledh</t>
          </tg>
       </mg>
       <mg>
@@ -15080,17 +15084,19 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e note="checked">
       <lg>
-         <l pos="V">börja vara brunstig</l>
+         <l pos="A">brunstig</l>
       </lg>
       <mg>
          <tg xml:lang="sma" tw_id="börja vara brunstig 19f4a794-2405-4286-be57-64054c28edd8">
-            <t pos="V">rihkjahtjedh</t>
+            <re>att börja bli</re>
+            <t pos="V">rihkijahtjedh</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sma" tw_id="börja vara brunstig b83b604b-b271-4e02-b141-a7ddfa73e58e">
+            <re>att bli</re>
             <t pos="V">rïhkijidh</t>
          </tg>
       </mg>
@@ -22984,14 +22990,14 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e note=checked">
       <lg>
          <l pos="V">springa ifrån</l>
       </lg>
       <mg>
          <tg xml:lang="sma" tw_id="springa ifrån ac51caee-13d7-4501-86bf-1857bbbd39e3">
             <re>någon el. något</re>
-            <t pos="V">bahrkelidh</t>
+            <t pos="V">barhkelidh</t>
          </tg>
       </mg>
    </e>
@@ -31236,27 +31242,25 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e note="checked">
       <lg>
-         <l pos="V">småjojka</l>
+         <l pos="V">jojka</l>
       </lg>
       <mg>
          <tg xml:lang="sma" tw_id="småjojka 5f57a4f3-3752-42ce-92bd-8245a08a0105">
+            <re>att smått</re>
             <t pos="V">joejkedidh</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sma" tw_id="småjojka 9f20e953-8307-4212-8d2f-88942b019389">
-            <t pos="V">jojkestidh</t>
+            <re>att smått börja</re>
+            <t pos="V">joejkestidh</t>
          </tg>
       </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">börja jojka</l>
-      </lg>
       <mg>
          <tg xml:lang="sma" tw_id="börja jojka 21f5609c-cf9c-48b7-8128-a359aef802c2">
+            <re>att börja</re>
             <t pos="V">joejkijidh</t>
          </tg>
       </mg>
